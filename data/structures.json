@@ -1,0 +1,5642 @@
+{
+ "name": "Open anatomy quiz sets",
+ "version": "1.0.0",
+ "updated": "2026-11-24",
+ "license": "CC BY-SA 4.0",
+ "source": "https://anatomyatlas3d.app/quiz/",
+ "structures": [
+  {
+   "id": "abductor-digiti-minimi-foot",
+   "name": "Abductor digiti minimi (foot)",
+   "latin": "Musculus abductor digiti minimi pedis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the little toe",
+    "Flexes the toes"
+   ],
+   "summary": "Abducts the fifth toe at the metatarsophalangeal joint. Supplied by the lateral plantar nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/abductor-digiti-minimi-foot/"
+  },
+  {
+   "id": "abductor-digiti-minimi-hand",
+   "name": "Abductor digiti minimi (hand)",
+   "latin": "Musculus abductor digiti minimi manus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Spreads the fingers apart",
+    "Flexes the fingers"
+   ],
+   "summary": "Abducts the little finger at the metacarpophalangeal joint. Supplied by the deep branch of the ulnar nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/abductor-digiti-minimi-hand/"
+  },
+  {
+   "id": "abductor-hallucis",
+   "name": "Abductor hallucis",
+   "latin": "Musculus abductor hallucis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the great toe",
+    "Flexes the great toe"
+   ],
+   "summary": "Abducts the great toe at the metatarsophalangeal joint. Supplied by the medial plantar nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/abductor-hallucis/"
+  },
+  {
+   "id": "abductor-pollicis-brevis",
+   "name": "Abductor pollicis brevis",
+   "latin": "Musculus abductor pollicis brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the thumb"
+   ],
+   "summary": "Abducts the thumb at the carpometacarpal and metacarpophalangeal joints (moves it anteriorly, perpendicular to the palm). Supplied by the recurrent (thenar) branch of the median nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/abductor-pollicis-brevis/"
+  },
+  {
+   "id": "abductor-pollicis-longus",
+   "name": "Abductor pollicis longus",
+   "latin": "Musculus abductor pollicis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the thumb",
+    "Extends the thumb",
+    "Abducts the wrist (radial deviation)"
+   ],
+   "summary": "Abducts and extends the thumb at the carpometacarpal joint. Supplied by the posterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/abductor-pollicis-longus/"
+  },
+  {
+   "id": "adductor-brevis",
+   "name": "Adductor brevis",
+   "latin": "Musculus adductor brevis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Adducts the hip",
+    "Flexes the hip"
+   ],
+   "summary": "Adducts the hip. Supplied by the obturator nerve, anterior branch.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/adductor-brevis/"
+  },
+  {
+   "id": "adductor-longus",
+   "name": "Adductor longus",
+   "latin": "Musculus adductor longus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Adducts the hip",
+    "Flexes the hip"
+   ],
+   "summary": "Adducts the hip. Supplied by the anterior branch of the obturator nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/adductor-longus/"
+  },
+  {
+   "id": "adductor-magnus",
+   "name": "Adductor magnus",
+   "latin": "Musculus adductor magnus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Adducts the hip",
+    "Flexes the hip",
+    "Extends the hip"
+   ],
+   "summary": "Adducts the hip. Supplied by the obturator nerve, posterior branch for the adductor part, and the tibial division of the sciatic nerve for the hamstring part.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/adductor-magnus/"
+  },
+  {
+   "id": "adductor-pollicis",
+   "name": "Adductor pollicis",
+   "latin": "Musculus adductor pollicis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Adducts the thumb"
+   ],
+   "summary": "Adducts the thumb at the carpometacarpal joint. Supplied by the ulnar nerve, deep branch.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/adductor-pollicis/"
+  },
+  {
+   "id": "adrenal-gland",
+   "name": "Adrenal gland",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Sits on top of the kidney and releases adrenaline and cortisol.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 3
+    },
+    {
+     "theme": "organs",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/endocrine-glands/"
+  },
+  {
+   "id": "anterior-auricular-muscle",
+   "name": "Anterior auricular muscle",
+   "latin": "Musculus auricularis anterior",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Draws the ear forward"
+   ],
+   "summary": "Draws the auricle forward and slightly upward. Supplied by the facial nerve (CN VII), temporal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/anterior-auricular-muscle/"
+  },
+  {
+   "id": "anterior-scalene",
+   "name": "Anterior scalene",
+   "latin": "Musculus scalenus anterior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Helps breathe in (inspiration)",
+    "Bends the neck to the side",
+    "Flexes the neck"
+   ],
+   "summary": "Elevates the first rib (accessory inspiration). Supplied by anterior rami of cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/anterior-scalene/"
+  },
+  {
+   "id": "atlas",
+   "name": "Atlas (C1 vertebra)",
+   "latin": "Atlas",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The first neck vertebra (C1), a ring of bone that carries the skull. Muscles attached include the splenius cervicis and levator scapulae.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/atlas/"
+  },
+  {
+   "id": "axis",
+   "name": "Axis (C2 vertebra)",
+   "latin": "Axis",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The second neck vertebra (C2); the head turns around its upward peg, the dens. Muscles attached include the splenius cervicis, levator scapulae and middle scalene.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/axis/"
+  },
+  {
+   "id": "biceps-brachii",
+   "name": "Biceps brachii",
+   "latin": "Musculus biceps brachii",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the elbow",
+    "Supinates the forearm",
+    "Flexes the shoulder"
+   ],
+   "summary": "Supinates the forearm (most powerfully with the elbow flexed) and flexes the elbow. Supplied by the musculocutaneous nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/biceps-brachii/"
+  },
+  {
+   "id": "biceps-femoris",
+   "name": "Biceps femoris",
+   "latin": "Musculus biceps femoris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the knee",
+    "Rotates the leg laterally (knee bent)",
+    "Extends the hip"
+   ],
+   "summary": "Flexes the knee. Its long head extends the hip. Supplied by the tibial division of the sciatic nerve for the long head, and the common fibular division of the sciatic nerve for the short head.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/biceps-femoris/"
+  },
+  {
+   "id": "brachialis",
+   "name": "Brachialis",
+   "latin": "Musculus brachialis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the elbow"
+   ],
+   "summary": "The main flexor of the elbow, whatever the position of the forearm. Supplied by the musculocutaneous nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/brachialis/"
+  },
+  {
+   "id": "brachioradialis",
+   "name": "Brachioradialis",
+   "latin": "Musculus brachioradialis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the elbow"
+   ],
+   "summary": "Flexes the elbow, most effectively with the forearm in the mid-prone (neutral) position. Supplied by the radial nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 2
+    },
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/brachioradialis/"
+  },
+  {
+   "id": "brainstem",
+   "name": "Brainstem",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Links the brain to the spinal cord and controls breathing, heart rate and other vital functions.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "organs",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/brain/"
+  },
+  {
+   "id": "buccinator",
+   "name": "Buccinator",
+   "latin": "Musculus buccinator",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Presses the cheek against the teeth"
+   ],
+   "summary": "Presses the cheek against the molar teeth. Supplied by the facial nerve (CN VII), buccal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/buccinator/"
+  },
+  {
+   "id": "c3-vertebra",
+   "name": "C3 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The third of the seven neck (cervical) vertebrae. Muscles attached include the levator scapulae, middle scalene and anterior scalene.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "neck",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cervical-vertebrae/"
+  },
+  {
+   "id": "c4-vertebra",
+   "name": "C4 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fourth of the seven neck (cervical) vertebrae. Muscles attached include the levator scapulae, middle scalene and posterior scalene.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "neck",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cervical-vertebrae/"
+  },
+  {
+   "id": "c5-vertebra",
+   "name": "C5 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fifth of the seven neck (cervical) vertebrae. Muscles attached include the middle scalene, posterior scalene and anterior scalene.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "neck",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cervical-vertebrae/"
+  },
+  {
+   "id": "c6-vertebra",
+   "name": "C6 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The sixth of the seven neck (cervical) vertebrae. Muscles attached include the middle scalene, posterior scalene and anterior scalene.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "neck",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cervical-vertebrae/"
+  },
+  {
+   "id": "c7-vertebra",
+   "name": "C7 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The seventh of the seven neck (cervical) vertebrae, whose long spinous process is the bump at the base of the neck. Muscles attached include the trapezius, rhomboid minor and middle scalene.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cervical-vertebrae/"
+  },
+  {
+   "id": "calcaneus",
+   "name": "Calcaneus (heel bone)",
+   "latin": "Calcaneus",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The heel bone, the largest bone of the foot. Muscles attached include the gastrocnemius, flexor digitorum brevis and abductor hallucis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/calcaneus/"
+  },
+  {
+   "id": "carpal-bones",
+   "name": "Carpal bones",
+   "latin": "Ossa carpi",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The eight small bones of the wrist, in two rows between the forearm and the palm. Muscles attached include the flexor carpi ulnaris, abductor digiti minimi (hand) and adductor pollicis.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/carpal-bones/"
+  },
+  {
+   "id": "cerebellum",
+   "name": "Cerebellum",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Coordinates movement, balance and posture. It sits at the back of the brain, under the cerebrum.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/brain/"
+  },
+  {
+   "id": "cerebrum",
+   "name": "Cerebrum",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The largest part of the brain: two hemispheres in charge of thought, movement, sensation and language.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/brain/"
+  },
+  {
+   "id": "clavicle",
+   "name": "Clavicle",
+   "latin": "Clavicula",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The collarbone, a horizontal strut between the sternum and the shoulder blade. Muscles attached include the trapezius, pectoralis major and deltoid.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/clavicle/"
+  },
+  {
+   "id": "colon",
+   "name": "Large intestine (colon)",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The large intestine: it absorbs water and salts from what is left of the food and forms stool.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/stomach-and-intestines/"
+  },
+  {
+   "id": "coracobrachialis",
+   "name": "Coracobrachialis",
+   "latin": "Musculus coracobrachialis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Flexes the shoulder",
+    "Adducts the arm"
+   ],
+   "summary": "Flexes and adducts the arm at the shoulder. Supplied by the musculocutaneous nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "arm-and-elbow",
+     "level": 3
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/coracobrachialis/"
+  },
+  {
+   "id": "corrugator-supercilii",
+   "name": "Corrugator supercilii",
+   "latin": "Musculus corrugator supercilii",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Draws the eyebrows together (frowning)"
+   ],
+   "summary": "Draws the eyebrows medially and downward, producing vertical glabellar wrinkles (frowning). Supplied by the facial nerve (CN VII), temporal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/corrugator-supercilii/"
+  },
+  {
+   "id": "cuboid",
+   "name": "Cuboid",
+   "latin": "Os cuboideum",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "A cube-shaped bone on the outer side of the foot, just in front of the calcaneus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cuboid/"
+  },
+  {
+   "id": "deltoid",
+   "name": "Deltoid",
+   "latin": "Musculus deltoideus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the arm",
+    "Flexes the shoulder",
+    "Extends the shoulder",
+    "Rotates the arm medially",
+    "Rotates the arm laterally"
+   ],
+   "summary": "Its acromial (middle) part abducts the arm at the shoulder. Supplied by the axillary nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/deltoid/"
+  },
+  {
+   "id": "depressor-anguli-oris",
+   "name": "Depressor anguli oris",
+   "latin": "Musculus depressor anguli oris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Pulls the corners of the mouth down"
+   ],
+   "summary": "Draws the angle of the mouth downward and laterally. Supplied by the facial nerve (CN VII), marginal mandibular and buccal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/depressor-anguli-oris/"
+  },
+  {
+   "id": "depressor-labii-inferioris",
+   "name": "Depressor labii inferioris",
+   "latin": "Musculus depressor labii inferioris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Lowers the lower lip"
+   ],
+   "summary": "Depresses the lower lip and draws it laterally. Supplied by the facial nerve (CN VII), marginal mandibular branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/depressor-labii-inferioris/"
+  },
+  {
+   "id": "depressor-septi-nasi",
+   "name": "Depressor septi nasi",
+   "latin": "Musculus depressor septi nasi",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Pulls the tip of the nose down"
+   ],
+   "summary": "Draws the nasal septum (columella) and nasal tip downwards. Supplied by the facial nerve (CN VII), buccal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/depressor-septi-nasi/"
+  },
+  {
+   "id": "depressor-supercilii",
+   "name": "Depressor supercilii",
+   "latin": "Musculus depressor supercilii",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Lowers the eyebrows"
+   ],
+   "summary": "Depresses the medial end of the eyebrow. Supplied by the facial nerve (CN VII), temporal and zygomatic branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/depressor-supercilii/"
+  },
+  {
+   "id": "diaphragm",
+   "name": "Diaphragm",
+   "latin": "Diaphragma",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Helps breathe in (inspiration)"
+   ],
+   "summary": "Descends and flattens to enlarge the thoracic cavity vertically (principal muscle of inspiration). Supplied by the phrenic nerve.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "abdomen",
+     "level": 3
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/diaphragm/"
+  },
+  {
+   "id": "digastric",
+   "name": "Digastric",
+   "latin": "Musculus digastricus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Opens the jaw",
+    "Raises the hyoid bone"
+   ],
+   "summary": "Depresses the mandible (opens the mouth) when the hyoid is fixed. Supplied by the nerve to mylohyoid from the mandibular nerve (CN V3) for the anterior belly, and the facial nerve (CN VII), digastric branch for the posterior belly.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/digastric/"
+  },
+  {
+   "id": "distal-phalanx-of-fifth-toe",
+   "name": "Distal phalanx of fifth toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the fifth toe. Muscles attached include the flexor digitorum longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "distal-phalanx-of-fourth-toe",
+   "name": "Distal phalanx of fourth toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the fourth toe. Muscles attached include the flexor digitorum longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "distal-phalanx-of-great-toe",
+   "name": "Distal phalanx of great toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the great toe. Muscles attached include the flexor hallucis longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "distal-phalanx-of-index-finger",
+   "name": "Distal phalanx of index finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the index finger. Muscles attached include the extensor indicis.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "distal-phalanx-of-little-finger",
+   "name": "Distal phalanx of little finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the little finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "distal-phalanx-of-middle-finger",
+   "name": "Distal phalanx of middle finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the middle finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "distal-phalanx-of-ring-finger",
+   "name": "Distal phalanx of ring finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the ring finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "distal-phalanx-of-second-toe",
+   "name": "Distal phalanx of second toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the second toe. Muscles attached include the flexor digitorum longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "distal-phalanx-of-third-toe",
+   "name": "Distal phalanx of third toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the third toe. Muscles attached include the flexor digitorum longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "distal-phalanx-of-thumb",
+   "name": "Distal phalanx of thumb",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tip bone of the thumb. Muscles attached include the flexor pollicis longus and extensor pollicis longus.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "dorsal-interossei-hand",
+   "name": "Dorsal interossei (hand)",
+   "latin": "Musculi interossei dorsales manus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Spreads the fingers apart"
+   ],
+   "summary": "Abduct the index, middle and ring fingers at the metacarpophalangeal joints, away from the axis of the middle finger. Supplied by the deep branch of the ulnar nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/dorsal-interossei-hand/"
+  },
+  {
+   "id": "eighth-rib",
+   "name": "Eighth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The eighth of the twelve pairs of ribs, a false rib, whose cartilage joins the rib above. Muscles attached include the serratus anterior and external oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "eleventh-rib",
+   "name": "Eleventh rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The eleventh of the twelve pairs of ribs, a floating rib, with a free front end. Muscles attached include the external oblique and internal oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "extensor-carpi-radialis-brevis",
+   "name": "Extensor carpi radialis brevis",
+   "latin": "Musculus extensor carpi radialis brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the wrist",
+    "Abducts the wrist (radial deviation)"
+   ],
+   "summary": "Extends and abducts (radially deviates) the wrist. Supplied by the deep branch of the radial nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-carpi-radialis-brevis/"
+  },
+  {
+   "id": "extensor-carpi-radialis-longus",
+   "name": "Extensor carpi radialis longus",
+   "latin": "Musculus extensor carpi radialis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the wrist",
+    "Abducts the wrist (radial deviation)"
+   ],
+   "summary": "Extends and abducts (radially deviates) the wrist. Supplied by the radial nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 3
+    },
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-carpi-radialis-longus/"
+  },
+  {
+   "id": "extensor-carpi-ulnaris",
+   "name": "Extensor carpi ulnaris",
+   "latin": "Musculus extensor carpi ulnaris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the wrist",
+    "Adducts the wrist (ulnar deviation)"
+   ],
+   "summary": "Extends and adducts (ulnar deviates) the wrist. Supplied by the posterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-carpi-ulnaris/"
+  },
+  {
+   "id": "extensor-digitorum",
+   "name": "Extensor digitorum",
+   "latin": "Musculus extensor digitorum",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the fingers",
+    "Extends the wrist"
+   ],
+   "summary": "Extends the medial four fingers at the metacarpophalangeal joints. Supplied by the posterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-digitorum/"
+  },
+  {
+   "id": "extensor-digitorum-brevis",
+   "name": "Extensor digitorum brevis",
+   "latin": "Musculus extensor digitorum brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the toes"
+   ],
+   "summary": "Extends the second to fourth toes at the metatarsophalangeal and interphalangeal joints. Supplied by the deep fibular nerve, lateral branch.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-digitorum-brevis/"
+  },
+  {
+   "id": "extensor-digitorum-longus",
+   "name": "Extensor digitorum longus",
+   "latin": "Musculus extensor digitorum longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the toes",
+    "Dorsiflexes the ankle"
+   ],
+   "summary": "Extends the lateral four toes at the metatarsophalangeal and interphalangeal joints and dorsiflexes the ankle. Supplied by the deep fibular nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-digitorum-longus/"
+  },
+  {
+   "id": "extensor-hallucis-brevis",
+   "name": "Extensor hallucis brevis",
+   "latin": "Musculus extensor hallucis brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the great toe"
+   ],
+   "summary": "Extends the great toe at the metatarsophalangeal joint. Supplied by the deep fibular nerve, lateral terminal branch.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-hallucis-brevis/"
+  },
+  {
+   "id": "extensor-hallucis-longus",
+   "name": "Extensor hallucis longus",
+   "latin": "Musculus extensor hallucis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the great toe",
+    "Dorsiflexes the ankle"
+   ],
+   "summary": "Extends the great toe at the metatarsophalangeal and interphalangeal joints and dorsiflexes the ankle. Supplied by the deep fibular nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-hallucis-longus/"
+  },
+  {
+   "id": "extensor-indicis",
+   "name": "Extensor indicis",
+   "latin": "Musculus extensor indicis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the fingers"
+   ],
+   "summary": "Extends the index finger independently of the other fingers. Supplied by the posterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-indicis/"
+  },
+  {
+   "id": "extensor-pollicis-brevis",
+   "name": "Extensor pollicis brevis",
+   "latin": "Musculus extensor pollicis brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the thumb"
+   ],
+   "summary": "Extends the thumb at the metacarpophalangeal joint. Supplied by the posterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-pollicis-brevis/"
+  },
+  {
+   "id": "extensor-pollicis-longus",
+   "name": "Extensor pollicis longus",
+   "latin": "Musculus extensor pollicis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the thumb"
+   ],
+   "summary": "Extends the thumb at the interphalangeal joint and extends the thumb at the metacarpophalangeal and carpometacarpal joints. Supplied by the posterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/extensor-pollicis-longus/"
+  },
+  {
+   "id": "external-intercostals",
+   "name": "External intercostals",
+   "latin": "Musculi intercostales externi",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Helps breathe in (inspiration)"
+   ],
+   "summary": "Elevate the ribs during inspiration. Supplied by the intercostal nerves.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/external-intercostals/"
+  },
+  {
+   "id": "external-oblique",
+   "name": "External oblique",
+   "latin": "Musculus obliquus externus abdominis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the trunk",
+    "Bends the trunk to the side",
+    "Rotates the trunk",
+    "Compresses the abdomen"
+   ],
+   "summary": "Flexes the trunk (both sides together) and rotates the trunk to the opposite side (one side acting). Supplied by the thoraco-abdominal nerves and subcostal nerve.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/external-oblique/"
+  },
+  {
+   "id": "eyeball",
+   "name": "Eyeball",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The organ of sight: its cornea and lens focus light onto the retina at the back.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/eye/"
+  },
+  {
+   "id": "femur",
+   "name": "Femur",
+   "latin": "Femur",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The thigh bone, the longest and strongest bone of the body. Muscles attached include the vastus lateralis, adductor magnus and gluteus maximus.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/femur/"
+  },
+  {
+   "id": "fibula",
+   "name": "Fibula",
+   "latin": "Fibula",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The slender bone on the outer side of the leg; its lower end forms the outer ankle bump. Muscles attached include the soleus, extensor digitorum longus and fibularis longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/fibula/"
+  },
+  {
+   "id": "fibularis-brevis",
+   "name": "Fibularis brevis",
+   "latin": "Musculus fibularis brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Everts the foot"
+   ],
+   "summary": "Everts the foot at the subtalar and transverse tarsal joints. Supplied by the superficial fibular nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/fibularis-brevis/"
+  },
+  {
+   "id": "fibularis-longus",
+   "name": "Fibularis longus",
+   "latin": "Musculus fibularis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Everts the foot",
+    "Plantar flexes the ankle"
+   ],
+   "summary": "Everts the foot and plantar flexes the ankle. Supplied by the superficial fibular nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/fibularis-longus/"
+  },
+  {
+   "id": "fifth-metacarpal",
+   "name": "Fifth metacarpal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the palm, the one that leads to the little finger. Muscles attached include the flexor carpi ulnaris, extensor carpi ulnaris and dorsal interossei (hand).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metacarpals/"
+  },
+  {
+   "id": "fifth-metatarsal",
+   "name": "Fifth metatarsal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the sole of the foot, the one that leads to the fifth toe. Muscles attached include the fibularis brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metatarsals/"
+  },
+  {
+   "id": "fifth-rib",
+   "name": "Fifth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fifth of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior, pectoralis minor and external oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "first-metacarpal",
+   "name": "First metacarpal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the palm, the one that leads to the thumb. Muscles attached include the abductor pollicis longus and dorsal interossei (hand).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metacarpals/"
+  },
+  {
+   "id": "first-metatarsal",
+   "name": "First metatarsal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the sole of the foot, the one that leads to the great toe. Muscles attached include the tibialis anterior and fibularis longus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metatarsals/"
+  },
+  {
+   "id": "first-rib",
+   "name": "First rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The first of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior, middle scalene and anterior scalene.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "flexor-carpi-radialis",
+   "name": "Flexor carpi radialis",
+   "latin": "Musculus flexor carpi radialis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the wrist",
+    "Abducts the wrist (radial deviation)"
+   ],
+   "summary": "Flexes and abducts (radially deviates) the wrist. Supplied by the median nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 3
+    },
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-carpi-radialis/"
+  },
+  {
+   "id": "flexor-carpi-ulnaris",
+   "name": "Flexor carpi ulnaris",
+   "latin": "Musculus flexor carpi ulnaris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the wrist",
+    "Adducts the wrist (ulnar deviation)"
+   ],
+   "summary": "Flexes and adducts (ulnar deviates) the wrist. Supplied by the ulnar nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-carpi-ulnaris/"
+  },
+  {
+   "id": "flexor-digiti-minimi-brevis-hand",
+   "name": "Flexor digiti minimi brevis (hand)",
+   "latin": "Musculus flexor digiti minimi brevis manus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Flexes the fingers"
+   ],
+   "summary": "Flexes the little finger at the metacarpophalangeal joint. Supplied by the deep branch of the ulnar nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-digiti-minimi-brevis-hand/"
+  },
+  {
+   "id": "flexor-digitorum-brevis",
+   "name": "Flexor digitorum brevis",
+   "latin": "Musculus flexor digitorum brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the toes"
+   ],
+   "summary": "Flexes the lateral four toes at the proximal interphalangeal joints. Supplied by the medial plantar nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-digitorum-brevis/"
+  },
+  {
+   "id": "flexor-digitorum-longus",
+   "name": "Flexor digitorum longus",
+   "latin": "Musculus flexor digitorum longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the toes",
+    "Plantar flexes the ankle",
+    "Inverts the foot"
+   ],
+   "summary": "Flexes the second to fifth toes, mainly at the distal interphalangeal joints. Supplied by the tibial nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-digitorum-longus/"
+  },
+  {
+   "id": "flexor-digitorum-profundus",
+   "name": "Flexor digitorum profundus",
+   "latin": "Musculus flexor digitorum profundus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the fingers"
+   ],
+   "summary": "Flexes the distal interphalangeal joints of fingers 2–5 (the only muscle able to do so). Supplied by the ulnar nerve for the medial part (fingers 4–5), and the anterior interosseous nerve for the lateral part (fingers 2–3).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-digitorum-profundus/"
+  },
+  {
+   "id": "flexor-digitorum-superficialis",
+   "name": "Flexor digitorum superficialis",
+   "latin": "Musculus flexor digitorum superficialis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the fingers"
+   ],
+   "summary": "Flexes the proximal interphalangeal joints of fingers 2–5. Supplied by the median nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-digitorum-superficialis/"
+  },
+  {
+   "id": "flexor-hallucis-longus",
+   "name": "Flexor hallucis longus",
+   "latin": "Musculus flexor hallucis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the great toe"
+   ],
+   "summary": "Flexes the great toe at the interphalangeal and metatarsophalangeal joints. Supplied by the tibial nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-hallucis-longus/"
+  },
+  {
+   "id": "flexor-pollicis-brevis",
+   "name": "Flexor pollicis brevis",
+   "latin": "Musculus flexor pollicis brevis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the thumb"
+   ],
+   "summary": "Flexes the thumb at the metacarpophalangeal joint. Supplied by the recurrent branch of the median nerve for the superficial head, and the deep branch of the ulnar nerve for the deep head.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-pollicis-brevis/"
+  },
+  {
+   "id": "flexor-pollicis-longus",
+   "name": "Flexor pollicis longus",
+   "latin": "Musculus flexor pollicis longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the thumb"
+   ],
+   "summary": "Flexes the interphalangeal joint of the thumb. Supplied by the anterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/flexor-pollicis-longus/"
+  },
+  {
+   "id": "fourth-metacarpal",
+   "name": "Fourth metacarpal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the palm, the one that leads to the ring finger. Muscles attached include the dorsal interossei (hand).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metacarpals/"
+  },
+  {
+   "id": "fourth-metatarsal",
+   "name": "Fourth metatarsal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the sole of the foot, the one that leads to the fourth toe.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metatarsals/"
+  },
+  {
+   "id": "fourth-rib",
+   "name": "Fourth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fourth of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior and pectoralis minor.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "frontalis",
+   "name": "Frontalis",
+   "latin": "Venter frontalis musculi occipitofrontalis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Raises the eyebrows"
+   ],
+   "summary": "Raises the eyebrows and wrinkles the forehead horizontally. Supplied by the facial nerve (CN VII), temporal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/frontalis/"
+  },
+  {
+   "id": "gallbladder",
+   "name": "Gallbladder",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Stores and concentrates bile made by the liver, and releases it into the duodenum after a meal.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 3
+    },
+    {
+     "theme": "organs",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/liver-and-pancreas/"
+  },
+  {
+   "id": "gastrocnemius",
+   "name": "Gastrocnemius",
+   "latin": "Musculus gastrocnemius",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Plantar flexes the ankle",
+    "Flexes the knee"
+   ],
+   "summary": "Plantar flexes the ankle, most strongly with the knee extended. Supplied by the tibial nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/gastrocnemius/"
+  },
+  {
+   "id": "gluteus-maximus",
+   "name": "Gluteus maximus",
+   "latin": "Musculus gluteus maximus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the hip",
+    "Rotates the thigh laterally"
+   ],
+   "summary": "Extends the hip (especially from flexion: rising from sitting, climbing stairs) and laterally rotates the hip. Supplied by the inferior gluteal nerve.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 2
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/gluteus-maximus/"
+  },
+  {
+   "id": "gluteus-medius",
+   "name": "Gluteus medius",
+   "latin": "Musculus gluteus medius",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the hip",
+    "Rotates the thigh medially"
+   ],
+   "summary": "Abducts the hip. Supplied by the superior gluteal nerve.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 2
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/gluteus-medius/"
+  },
+  {
+   "id": "gluteus-minimus",
+   "name": "Gluteus minimus",
+   "latin": "Musculus gluteus minimus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Abducts the hip",
+    "Rotates the thigh medially"
+   ],
+   "summary": "Abducts and medially rotates the hip. Supplied by the superior gluteal nerve.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 2
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/gluteus-minimus/"
+  },
+  {
+   "id": "gracilis",
+   "name": "Gracilis",
+   "latin": "Musculus gracilis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Adducts the hip",
+    "Flexes the knee",
+    "Rotates the leg medially (knee bent)"
+   ],
+   "summary": "Adducts the hip. Supplied by the obturator nerve, anterior branch.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/gracilis/"
+  },
+  {
+   "id": "heart",
+   "name": "Heart",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Pumps blood through the lungs and around the body. It sits behind the sternum, between the two lungs.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/heart/"
+  },
+  {
+   "id": "hip-bone",
+   "name": "Hip bone",
+   "latin": "Os coxae",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The large bone of each side of the pelvis, formed by the fused ilium, ischium and pubis. Muscles attached include the gluteus maximus, gluteus medius and iliacus.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 1
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/hip-bone/"
+  },
+  {
+   "id": "humerus",
+   "name": "Humerus",
+   "latin": "Humerus",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The long bone of the arm, from the shoulder to the elbow. Muscles attached include the triceps brachii, brachialis and brachioradialis.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "arm-and-elbow",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/humerus/"
+  },
+  {
+   "id": "hyoglossus",
+   "name": "Hyoglossus",
+   "latin": "Musculus hyoglossus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Depresses and retracts the tongue"
+   ],
+   "summary": "Depresses and retracts the tongue. Supplied by the hypoglossal nerve (CN XII).",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/hyoglossus/"
+  },
+  {
+   "id": "iliacus",
+   "name": "Iliacus",
+   "latin": "Musculus iliacus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Flexes the hip",
+    "Flexes the trunk"
+   ],
+   "summary": "Flexes the hip. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 3
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/iliacus/"
+  },
+  {
+   "id": "iliocostalis",
+   "name": "Iliocostalis",
+   "latin": "Musculus iliocostalis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the vertebral column",
+    "Bends the trunk to the side"
+   ],
+   "summary": "Extends the vertebral column when both sides work together. Supplied by lateral branches of the dorsal (posterior) rami of the cervical, thoracic and lumbar spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/iliocostalis/"
+  },
+  {
+   "id": "inferior-gemellus",
+   "name": "Inferior gemellus",
+   "latin": "Musculus gemellus inferior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Rotates the thigh laterally"
+   ],
+   "summary": "Laterally rotates the extended hip. Supplied by the nerve to quadratus femoris.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/inferior-gemellus/"
+  },
+  {
+   "id": "infraspinatus",
+   "name": "Infraspinatus",
+   "latin": "Musculus infraspinatus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Rotates the arm laterally"
+   ],
+   "summary": "Laterally rotates the shoulder. Supplied by the suprascapular nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/infraspinatus/"
+  },
+  {
+   "id": "intermediate-cuneiform",
+   "name": "Intermediate cuneiform",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the three wedge-shaped cuneiform bones of the midfoot, the smallest, in the middle, in front of the navicular. Muscles attached include the tibialis posterior.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cuneiform-bones/"
+  },
+  {
+   "id": "internal-intercostals",
+   "name": "Internal intercostals",
+   "latin": "Musculi intercostales interni",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Forces breath out (forced expiration)"
+   ],
+   "summary": "Its interosseous (lateral) parts depress the ribs during forced expiration. Supplied by the intercostal nerves.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/internal-intercostals/"
+  },
+  {
+   "id": "internal-oblique",
+   "name": "Internal oblique",
+   "latin": "Musculus obliquus internus abdominis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Compresses the abdomen",
+    "Flexes the trunk",
+    "Bends the trunk to the side",
+    "Rotates the trunk"
+   ],
+   "summary": "Compresses the abdominal viscera and rotates the trunk to the same side (with the contralateral external oblique). Supplied by the thoraco-abdominal nerves, subcostal nerve, iliohypogastric and ilioinguinal nerves.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/internal-oblique/"
+  },
+  {
+   "id": "kidney",
+   "name": "Kidney",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Filters the blood to make urine, keeping water, salts and blood pressure in balance.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/kidneys-and-bladder/"
+  },
+  {
+   "id": "l1-vertebra",
+   "name": "L1 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The first of the five lumbar vertebrae, the largest of the spine. Muscles attached include the latissimus dorsi, quadratus lumborum and diaphragm.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/lumbar-vertebrae/"
+  },
+  {
+   "id": "l2-vertebra",
+   "name": "L2 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The second of the five lumbar vertebrae, the largest of the spine. Muscles attached include the latissimus dorsi, quadratus lumborum and diaphragm.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/lumbar-vertebrae/"
+  },
+  {
+   "id": "l3-vertebra",
+   "name": "L3 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The third of the five lumbar vertebrae, the largest of the spine. Muscles attached include the latissimus dorsi, quadratus lumborum and diaphragm.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/lumbar-vertebrae/"
+  },
+  {
+   "id": "l4-vertebra",
+   "name": "L4 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fourth of the five lumbar vertebrae, the largest of the spine. Muscles attached include the latissimus dorsi, quadratus lumborum and psoas major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/lumbar-vertebrae/"
+  },
+  {
+   "id": "l5-vertebra",
+   "name": "L5 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The lowest of the five lumbar vertebrae, the largest of the spine, resting on the sacrum. Muscles attached include the latissimus dorsi and psoas major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/lumbar-vertebrae/"
+  },
+  {
+   "id": "lateral-cuneiform",
+   "name": "Lateral cuneiform",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the three wedge-shaped cuneiform bones of the midfoot, the one on the outer side, in front of the navicular. Muscles attached include the tibialis posterior.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cuneiform-bones/"
+  },
+  {
+   "id": "latissimus-dorsi",
+   "name": "Latissimus dorsi",
+   "latin": "Musculus latissimus dorsi",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the shoulder",
+    "Adducts the arm",
+    "Rotates the arm medially"
+   ],
+   "summary": "Extends, adducts and medially rotates the shoulder. Supplied by the thoracodorsal nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/latissimus-dorsi/"
+  },
+  {
+   "id": "levator-anguli-oris",
+   "name": "Levator anguli oris",
+   "latin": "Musculus levator anguli oris",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Pulls the corners of the mouth up"
+   ],
+   "summary": "Elevates the angle of the mouth. Supplied by the facial nerve (CN VII), zygomatic and buccal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/levator-anguli-oris/"
+  },
+  {
+   "id": "levator-labii-superioris",
+   "name": "Levator labii superioris",
+   "latin": "Musculus levator labii superioris",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Raises the upper lip"
+   ],
+   "summary": "Elevates the upper lip. Supplied by the facial nerve (CN VII), zygomatic and buccal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/levator-labii-superioris/"
+  },
+  {
+   "id": "levator-labii-superioris-alaeque-nasi",
+   "name": "Levator labii superioris alaeque nasi",
+   "latin": "Musculus levator labii superioris alaeque nasi",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Raises the upper lip",
+    "Moves the nostrils"
+   ],
+   "summary": "Elevates the upper lip and dilates the nostril by raising the ala of the nose. Supplied by the facial nerve (CN VII), zygomatic and buccal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/levator-labii-superioris-alaeque-nasi/"
+  },
+  {
+   "id": "levator-scapulae",
+   "name": "Levator scapulae",
+   "latin": "Musculus levator scapulae",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Elevates the scapula",
+    "Rotates the scapula downward",
+    "Bends the neck to the side"
+   ],
+   "summary": "Elevates the scapula and rotates the scapula downward (tilts the glenoid cavity inferiorly). Supplied by the dorsal scapular nerve and anterior rami of C3–C4.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 3
+    },
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/levator-scapulae/"
+  },
+  {
+   "id": "liver",
+   "name": "Liver",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Makes bile, stores sugar as glycogen and processes the blood coming from the gut. The largest internal organ.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/liver-and-pancreas/"
+  },
+  {
+   "id": "longissimus",
+   "name": "Longissimus",
+   "latin": "Musculus longissimus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the vertebral column",
+    "Extends the head and neck",
+    "Bends the trunk to the side",
+    "Bends the neck to the side",
+    "Turns the head"
+   ],
+   "summary": "Extends the vertebral column, and the head (capitis part) when both sides work together. Supplied by lateral branches of the posterior rami of the cervical, thoracic and lumbar spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/longissimus/"
+  },
+  {
+   "id": "lumbricals-hand",
+   "name": "Lumbricals (hand)",
+   "latin": "Musculi lumbricales manus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [],
+   "summary": "Flex the metacarpophalangeal joints and extend the interphalangeal joints of fingers 2–5. Supplied by the median nerve for the first and second, and the deep branch of the ulnar nerve for the third and fourth.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/lumbricals-hand/"
+  },
+  {
+   "id": "lung",
+   "name": "Lung",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Takes oxygen into the blood and removes carbon dioxide. The right lung has three lobes, the left lung two.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/lungs/"
+  },
+  {
+   "id": "mandible",
+   "name": "Mandible",
+   "latin": "Mandibula",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The lower jaw, the only skull bone that moves; it carries the lower teeth. Muscles attached include the temporalis, orbicularis oris and buccinator.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/mandible/"
+  },
+  {
+   "id": "masseter",
+   "name": "Masseter",
+   "latin": "Musculus masseter",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Closes the jaw"
+   ],
+   "summary": "Elevates the mandible (closes the jaw). Supplied by the masseteric nerve from the mandibular nerve (CN V3).",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/masseter/"
+  },
+  {
+   "id": "medial-cuneiform",
+   "name": "Medial cuneiform",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the three wedge-shaped cuneiform bones of the midfoot, the largest, on the inner side, in front of the navicular. Muscles attached include the tibialis anterior, fibularis longus and tibialis posterior.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/cuneiform-bones/"
+  },
+  {
+   "id": "mentalis",
+   "name": "Mentalis",
+   "latin": "Musculus mentalis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Raises and wrinkles the chin"
+   ],
+   "summary": "Elevates and wrinkles the skin of the chin and elevates and protrudes the lower lip. Supplied by the facial nerve (CN VII), marginal mandibular branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/mentalis/"
+  },
+  {
+   "id": "middle-phalanx-of-fifth-toe",
+   "name": "Middle phalanx of fifth toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the fifth toe. Muscles attached include the flexor digitorum brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "middle-phalanx-of-fourth-toe",
+   "name": "Middle phalanx of fourth toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the fourth toe.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "middle-phalanx-of-index-finger",
+   "name": "Middle phalanx of index finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the index finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "middle-phalanx-of-little-finger",
+   "name": "Middle phalanx of little finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the little finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "middle-phalanx-of-middle-finger",
+   "name": "Middle phalanx of middle finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the middle finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "middle-phalanx-of-ring-finger",
+   "name": "Middle phalanx of ring finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the ring finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "middle-phalanx-of-second-toe",
+   "name": "Middle phalanx of second toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the second toe. Muscles attached include the flexor digitorum brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "middle-phalanx-of-third-toe",
+   "name": "Middle phalanx of third toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The middle bone of the third toe. Muscles attached include the flexor digitorum brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "middle-scalene",
+   "name": "Middle scalene",
+   "latin": "Musculus scalenus medius",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Helps breathe in (inspiration)",
+    "Bends the neck to the side"
+   ],
+   "summary": "Elevates the first rib in forced inspiration and laterally flexes the neck to the same side. Supplied by anterior rami of cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/middle-scalene/"
+  },
+  {
+   "id": "mylohyoid",
+   "name": "Mylohyoid",
+   "latin": "Musculus mylohyoideus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Raises the hyoid bone"
+   ],
+   "summary": "Elevates the floor of the mouth and the hyoid bone during swallowing and speech. Supplied by the nerve to mylohyoid.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/mylohyoid/"
+  },
+  {
+   "id": "nasalis",
+   "name": "Nasalis",
+   "latin": "Musculus nasalis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Moves the nostrils"
+   ],
+   "summary": "Its transverse part compresses the nasal aperture. Its alar part flares (dilates) the nostril. Supplied by the facial nerve (CN VII), buccal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/nasalis/"
+  },
+  {
+   "id": "navicular",
+   "name": "Navicular bone (foot)",
+   "latin": "Os naviculare",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "A boat-shaped bone on the inner side of the foot, just in front of the talus. Muscles attached include the tibialis posterior.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/navicular/"
+  },
+  {
+   "id": "ninth-rib",
+   "name": "Ninth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The ninth of the twelve pairs of ribs, a false rib, whose cartilage joins the rib above. Muscles attached include the external oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "obturator-externus",
+   "name": "Obturator externus",
+   "latin": "Musculus obturatorius externus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Rotates the thigh laterally"
+   ],
+   "summary": "Laterally rotates the hip. Supplied by the obturator nerve, posterior branch.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/obturator-externus/"
+  },
+  {
+   "id": "obturator-internus",
+   "name": "Obturator internus",
+   "latin": "Musculus obturatorius internus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Rotates the thigh laterally"
+   ],
+   "summary": "Laterally rotates the extended hip. Supplied by the nerve to obturator internus.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 3
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/obturator-internus/"
+  },
+  {
+   "id": "omohyoid",
+   "name": "Omohyoid",
+   "latin": "Musculus omohyoideus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Lowers the hyoid bone"
+   ],
+   "summary": "Depresses the hyoid bone. Supplied by the ansa cervicalis.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/omohyoid/"
+  },
+  {
+   "id": "opponens-digiti-minimi",
+   "name": "Opponens digiti minimi",
+   "latin": "Musculus opponens digiti minimi manus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Opposes the little finger"
+   ],
+   "summary": "Opposes the little finger. Supplied by the deep branch of the ulnar nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/opponens-digiti-minimi/"
+  },
+  {
+   "id": "opponens-pollicis",
+   "name": "Opponens pollicis",
+   "latin": "Musculus opponens pollicis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Opposes the thumb"
+   ],
+   "summary": "Opposes the thumb by flexing and medially rotating the first metacarpal at the carpometacarpal joint. Supplied by the recurrent (thenar) branch of the median nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/opponens-pollicis/"
+  },
+  {
+   "id": "orbicularis-oculi",
+   "name": "Orbicularis oculi",
+   "latin": "Musculus orbicularis oculi",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Closes the eyelids"
+   ],
+   "summary": "Closes the eyelids. Supplied by the facial nerve (CN VII), temporal and zygomatic branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/orbicularis-oculi/"
+  },
+  {
+   "id": "orbicularis-oris",
+   "name": "Orbicularis oris",
+   "latin": "Musculus orbicularis oris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Closes and purses the lips"
+   ],
+   "summary": "Closes and protrudes (purses) the lips. Supplied by the facial nerve (CN VII), buccal and marginal mandibular branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/orbicularis-oris/"
+  },
+  {
+   "id": "palmar-interossei",
+   "name": "Palmar interossei",
+   "latin": "Musculi interossei palmares",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Brings the fingers together"
+   ],
+   "summary": "Adduct the index, ring and little fingers towards the axis of the middle finger at the metacarpophalangeal joints. Supplied by the ulnar nerve, deep branch.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/palmar-interossei/"
+  },
+  {
+   "id": "palmaris-longus",
+   "name": "Palmaris longus",
+   "latin": "Musculus palmaris longus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the wrist"
+   ],
+   "summary": "Flexes the wrist. Supplied by the median nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/palmaris-longus/"
+  },
+  {
+   "id": "pancreas",
+   "name": "Pancreas",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Releases digestive enzymes into the duodenum and the hormones insulin and glucagon into the blood.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/liver-and-pancreas/"
+  },
+  {
+   "id": "patella",
+   "name": "Patella (kneecap)",
+   "latin": "Patella",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The kneecap, a bone set in the quadriceps tendon in front of the knee. Muscles attached include the vastus lateralis, vastus medialis and vastus intermedius.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/patella/"
+  },
+  {
+   "id": "pectineus",
+   "name": "Pectineus",
+   "latin": "Musculus pectineus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Adducts the hip",
+    "Flexes the hip"
+   ],
+   "summary": "Adducts and flexes the hip. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/pectineus/"
+  },
+  {
+   "id": "pectoralis-major",
+   "name": "Pectoralis major",
+   "latin": "Musculus pectoralis major",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Adducts the arm",
+    "Rotates the arm medially",
+    "Flexes the shoulder"
+   ],
+   "summary": "Adducts and medially rotates the arm at the shoulder. Supplied by the lateral pectoral nerve and medial pectoral nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/pectoralis-major/"
+  },
+  {
+   "id": "pectoralis-minor",
+   "name": "Pectoralis minor",
+   "latin": "Musculus pectoralis minor",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Protracts the scapula",
+    "Depresses the scapula",
+    "Helps breathe in (inspiration)"
+   ],
+   "summary": "Draws the scapula forward and downward (protraction and depression). Supplied by the medial pectoral nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 3
+    },
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/pectoralis-minor/"
+  },
+  {
+   "id": "piriformis",
+   "name": "Piriformis",
+   "latin": "Musculus piriformis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Rotates the thigh laterally"
+   ],
+   "summary": "Laterally rotates the extended hip. Supplied by the nerve to piriformis.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 3
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/piriformis/"
+  },
+  {
+   "id": "platysma",
+   "name": "Platysma",
+   "latin": "Platysma",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Tenses the skin of the neck",
+    "Pulls the corners of the mouth down"
+   ],
+   "summary": "Tenses the skin of the neck, raising vertical ridges. Supplied by the facial nerve (CN VII), cervical branch.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/platysma/"
+  },
+  {
+   "id": "posterior-auricular-muscle",
+   "name": "Posterior auricular muscle",
+   "latin": "Musculus auricularis posterior",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Draws the ear backward"
+   ],
+   "summary": "Draws the auricle backward. Supplied by the facial nerve (CN VII), posterior auricular branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/posterior-auricular-muscle/"
+  },
+  {
+   "id": "posterior-scalene",
+   "name": "Posterior scalene",
+   "latin": "Musculus scalenus posterior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Helps breathe in (inspiration)",
+    "Bends the neck to the side"
+   ],
+   "summary": "Elevates the second rib (accessory inspiration) and laterally flexes the cervical spine (one side acting). Supplied by anterior rami of cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/posterior-scalene/"
+  },
+  {
+   "id": "procerus",
+   "name": "Procerus",
+   "latin": "Musculus procerus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Lowers the eyebrows"
+   ],
+   "summary": "Draws the medial ends of the eyebrows downward. Supplied by the facial nerve (CN VII), temporal and zygomatic branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/procerus/"
+  },
+  {
+   "id": "pronator-quadratus",
+   "name": "Pronator quadratus",
+   "latin": "Musculus pronator quadratus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Pronates the forearm"
+   ],
+   "summary": "Pronates the forearm. Supplied by the anterior interosseous nerve.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/pronator-quadratus/"
+  },
+  {
+   "id": "pronator-teres",
+   "name": "Pronator teres",
+   "latin": "Musculus pronator teres",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Pronates the forearm",
+    "Flexes the elbow"
+   ],
+   "summary": "Pronates the forearm. Supplied by the median nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 2
+    },
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/pronator-teres/"
+  },
+  {
+   "id": "prostate",
+   "name": "Prostate",
+   "latin": "Prostata",
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "A gland under the bladder, around the urethra, that adds fluid to semen.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/prostate/"
+  },
+  {
+   "id": "proximal-phalanx-of-fifth-toe",
+   "name": "Proximal phalanx of fifth toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the fifth toe. Muscles attached include the abductor digiti minimi (foot).",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "proximal-phalanx-of-fourth-toe",
+   "name": "Proximal phalanx of fourth toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the fourth toe. Muscles attached include the extensor digitorum brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "proximal-phalanx-of-great-toe",
+   "name": "Proximal phalanx of great toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the great toe. Muscles attached include the extensor hallucis longus, abductor hallucis and extensor hallucis brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "proximal-phalanx-of-index-finger",
+   "name": "Proximal phalanx of index finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the index finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "proximal-phalanx-of-little-finger",
+   "name": "Proximal phalanx of little finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the little finger. Muscles attached include the abductor digiti minimi (hand).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "proximal-phalanx-of-middle-finger",
+   "name": "Proximal phalanx of middle finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the middle finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "proximal-phalanx-of-ring-finger",
+   "name": "Proximal phalanx of ring finger",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the ring finger.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "proximal-phalanx-of-second-toe",
+   "name": "Proximal phalanx of second toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the second toe. Muscles attached include the extensor digitorum brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "proximal-phalanx-of-third-toe",
+   "name": "Proximal phalanx of third toe",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the third toe. Muscles attached include the extensor digitorum brevis.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-foot/"
+  },
+  {
+   "id": "proximal-phalanx-of-thumb",
+   "name": "Proximal phalanx of thumb",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bone at the base of the thumb. Muscles attached include the extensor pollicis brevis and adductor pollicis.",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/phalanges-of-the-hand/"
+  },
+  {
+   "id": "psoas-major",
+   "name": "Psoas major",
+   "latin": "Musculus psoas major",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Flexes the hip",
+    "Flexes the trunk"
+   ],
+   "summary": "Flexes the hip (with iliacus as iliopsoas). Supplied by anterior rami of the lumbar nerves.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 3
+    },
+    {
+     "theme": "pelvis",
+     "level": 2
+    },
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/psoas-major/"
+  },
+  {
+   "id": "psoas-minor",
+   "name": "Psoas minor",
+   "latin": "Musculus psoas minor",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Flexes the trunk"
+   ],
+   "summary": "Weakly flexes the lumbar vertebral column on the pelvis. Supplied by the anterior ramus of L1.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 2
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/psoas-minor/"
+  },
+  {
+   "id": "quadratus-lumborum",
+   "name": "Quadratus lumborum",
+   "latin": "Musculus quadratus lumborum",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Bends the trunk to the side",
+    "Extends the vertebral column"
+   ],
+   "summary": "Laterally flexes the lumbar spine (one side acting). Supplied by anterior rami of T12–L4 (subcostal and lumbar nerves).",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/quadratus-lumborum/"
+  },
+  {
+   "id": "radius",
+   "name": "Radius",
+   "latin": "Radius",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The forearm bone on the thumb side; it turns around the ulna when the palm turns over. Muscles attached include the flexor digitorum superficialis, brachioradialis and abductor pollicis longus.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 2
+    },
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/radius/"
+  },
+  {
+   "id": "rectus-abdominis",
+   "name": "Rectus abdominis",
+   "latin": "Musculus rectus abdominis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the trunk",
+    "Compresses the abdomen"
+   ],
+   "summary": "Flexes the trunk (lumbar spine). Supplied by the thoraco-abdominal nerves and subcostal nerve.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/rectus-abdominis/"
+  },
+  {
+   "id": "rectus-femoris",
+   "name": "Rectus femoris",
+   "latin": "Musculus rectus femoris",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the knee",
+    "Flexes the hip"
+   ],
+   "summary": "Extends the knee and flexes the hip. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/rectus-femoris/"
+  },
+  {
+   "id": "rhomboid-major",
+   "name": "Rhomboid major",
+   "latin": "Musculus rhomboideus major",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Retracts the scapula",
+    "Rotates the scapula downward"
+   ],
+   "summary": "Retracts (adducts) the scapula and rotates the scapula downward (glenoid cavity turned inferiorly). Supplied by the dorsal scapular nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 3
+    },
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/rhomboid-major/"
+  },
+  {
+   "id": "rhomboid-minor",
+   "name": "Rhomboid minor",
+   "latin": "Musculus rhomboideus minor",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Retracts the scapula",
+    "Rotates the scapula downward"
+   ],
+   "summary": "Retracts the scapula and rotates the scapula downward (tilts the glenoid cavity inferiorly). Supplied by the dorsal scapular nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 3
+    },
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 3
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/rhomboid-minor/"
+  },
+  {
+   "id": "risorius",
+   "name": "Risorius",
+   "latin": "Musculus risorius",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Pulls the corners of the mouth sideways"
+   ],
+   "summary": "Draws the angle of the mouth laterally. Supplied by the facial nerve (CN VII), buccal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/risorius/"
+  },
+  {
+   "id": "sacrum",
+   "name": "Sacrum",
+   "latin": "Os sacrum",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The triangular bone at the base of the spine, made of five fused vertebrae and wedged between the hip bones. Muscles attached include the gluteus maximus, piriformis and latissimus dorsi.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/sacrum/"
+  },
+  {
+   "id": "sartorius",
+   "name": "Sartorius",
+   "latin": "Musculus sartorius",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Flexes the hip",
+    "Abducts the hip",
+    "Rotates the thigh laterally",
+    "Flexes the knee"
+   ],
+   "summary": "Flexes the hip and flexes the knee. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/sartorius/"
+  },
+  {
+   "id": "scapula",
+   "name": "Scapula",
+   "latin": "Scapula",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The shoulder blade, a flat triangular bone on the back of the rib cage whose socket holds the head of the humerus. Muscles attached include the trapezius, serratus anterior and deltoid.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/scapula/"
+  },
+  {
+   "id": "second-metacarpal",
+   "name": "Second metacarpal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the palm, the one that leads to the index finger. Muscles attached include the flexor carpi radialis, extensor carpi radialis longus and dorsal interossei (hand).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metacarpals/"
+  },
+  {
+   "id": "second-metatarsal",
+   "name": "Second metatarsal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the sole of the foot, the one that leads to the second toe.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metatarsals/"
+  },
+  {
+   "id": "second-rib",
+   "name": "Second rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The second of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior and posterior scalene.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "semimembranosus",
+   "name": "Semimembranosus",
+   "latin": "Musculus semimembranosus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the hip",
+    "Flexes the knee",
+    "Rotates the leg medially (knee bent)"
+   ],
+   "summary": "Extends the hip and flexes the knee. Supplied by the tibial division of the sciatic nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/semimembranosus/"
+  },
+  {
+   "id": "semispinalis-capitis",
+   "name": "Semispinalis capitis",
+   "latin": "Musculus semispinalis capitis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the head and neck"
+   ],
+   "summary": "Extends the head at the atlanto-occipital joint and the upper cervical spine (bilateral contraction). Supplied by medial branches of the posterior rami of the cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "neck",
+     "level": 3
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 3
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/semispinalis-capitis/"
+  },
+  {
+   "id": "semispinalis-cervicis",
+   "name": "Semispinalis cervicis",
+   "latin": "Musculus semispinalis cervicis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the head and neck"
+   ],
+   "summary": "Extends the cervical spine (both sides acting). Supplied by medial branches of the posterior (dorsal) rami of the cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/semispinalis-cervicis/"
+  },
+  {
+   "id": "semitendinosus",
+   "name": "Semitendinosus",
+   "latin": "Musculus semitendinosus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the hip",
+    "Flexes the knee",
+    "Rotates the leg medially (knee bent)"
+   ],
+   "summary": "One of the hamstrings: extends the hip and flexes the knee. Supplied by the tibial part of the sciatic nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/semitendinosus/"
+  },
+  {
+   "id": "serratus-anterior",
+   "name": "Serratus anterior",
+   "latin": "Musculus serratus anterior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Protracts the scapula",
+    "Rotates the scapula upward"
+   ],
+   "summary": "Protracts the scapula and rotates the scapula upward (inferior fibres). Supplied by the long thoracic nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/serratus-anterior/"
+  },
+  {
+   "id": "seventh-rib",
+   "name": "Seventh rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The seventh of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior and external oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "sixth-rib",
+   "name": "Sixth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The sixth of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior and external oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "skull",
+   "name": "Skull",
+   "latin": "Cranium",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The bony case of the head that protects the brain and holds the eyes, ears and upper teeth. Muscles attached include the temporalis, buccinator and procerus.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/skull/"
+  },
+  {
+   "id": "small-intestine",
+   "name": "Small intestine",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Where most food is digested and absorbed. Its folds and villi give it a huge inner surface.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/stomach-and-intestines/"
+  },
+  {
+   "id": "soleus",
+   "name": "Soleus",
+   "latin": "Musculus soleus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Plantar flexes the ankle"
+   ],
+   "summary": "Plantar flexes the ankle, whatever the position of the knee. Supplied by the tibial nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/soleus/"
+  },
+  {
+   "id": "spinalis",
+   "name": "Spinalis",
+   "latin": "Musculus spinalis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the vertebral column"
+   ],
+   "summary": "Extends the vertebral column (both sides acting). Supplied by lateral branches of the posterior (dorsal) rami of the spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/spinalis/"
+  },
+  {
+   "id": "spleen",
+   "name": "Spleen",
+   "latin": "Splen",
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Filters the blood, removes worn-out red blood cells and helps fight infection.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/spleen/"
+  },
+  {
+   "id": "splenius-capitis",
+   "name": "Splenius capitis",
+   "latin": "Musculus splenius capitis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the head and neck",
+    "Bends the neck to the side",
+    "Turns the head"
+   ],
+   "summary": "Extends the head and neck when both sides work together. Supplied by lateral branches of the dorsal (posterior) rami of the middle cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "neck",
+     "level": 3
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/splenius-capitis/"
+  },
+  {
+   "id": "splenius-cervicis",
+   "name": "Splenius cervicis",
+   "latin": "Musculus splenius cervicis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the head and neck",
+    "Bends the neck to the side",
+    "Turns the head"
+   ],
+   "summary": "Extends the neck (bilateral contraction) and laterally flexes and rotates the neck to the same side (unilateral contraction). Supplied by lateral branches of the posterior rami of the middle and lower cervical spinal nerves.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/splenius-cervicis/"
+  },
+  {
+   "id": "sternocleidomastoid",
+   "name": "Sternocleidomastoid",
+   "latin": "Musculus sternocleidomastoideus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Bends the neck to the side",
+    "Turns the head",
+    "Flexes the neck"
+   ],
+   "summary": "Tilts the head toward the same shoulder and rotates the face to the opposite side when one side works alone. Supplied by the accessory nerve (CN XI).",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/sternocleidomastoid/"
+  },
+  {
+   "id": "sternohyoid",
+   "name": "Sternohyoid",
+   "latin": "Musculus sternohyoideus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Lowers the hyoid bone"
+   ],
+   "summary": "Depresses the hyoid bone (after it has been raised in swallowing). Supplied by the ansa cervicalis.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/sternohyoid/"
+  },
+  {
+   "id": "sternothyroid",
+   "name": "Sternothyroid",
+   "latin": "Musculus sternothyroideus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Lowers the larynx"
+   ],
+   "summary": "Depresses the larynx (thyroid cartilage) after it has been elevated in swallowing or speech. Supplied by the ansa cervicalis.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/sternothyroid/"
+  },
+  {
+   "id": "sternum",
+   "name": "Sternum",
+   "latin": "Sternum",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The breastbone, in the front of the chest; the upper ribs join it through their cartilages. Muscles attached include the diaphragm, pectoralis major and rectus abdominis.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/sternum/"
+  },
+  {
+   "id": "stomach",
+   "name": "Stomach",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Stores food and starts digesting it with acid and enzymes before passing it on to the small intestine.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/stomach-and-intestines/"
+  },
+  {
+   "id": "stylohyoid",
+   "name": "Stylohyoid",
+   "latin": "Musculus stylohyoideus",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Raises the hyoid bone"
+   ],
+   "summary": "Elevates and retracts the hyoid bone. Supplied by the facial nerve (CN VII), stylohyoid branch.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/stylohyoid/"
+  },
+  {
+   "id": "subscapularis",
+   "name": "Subscapularis",
+   "latin": "Musculus subscapularis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Rotates the arm medially"
+   ],
+   "summary": "Medially rotates the shoulder (humerus). Supplied by the upper and lower subscapular nerves.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/subscapularis/"
+  },
+  {
+   "id": "superior-auricular-muscle",
+   "name": "Superior auricular muscle",
+   "latin": "Musculus auricularis superior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Raises the ear"
+   ],
+   "summary": "Elevates the auricle. Supplied by the facial nerve (CN VII), temporal branch.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/superior-auricular-muscle/"
+  },
+  {
+   "id": "superior-gemellus",
+   "name": "Superior gemellus",
+   "latin": "Musculus gemellus superior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Rotates the thigh laterally"
+   ],
+   "summary": "Laterally rotates the extended hip. Supplied by the nerve to obturator internus.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 3
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/superior-gemellus/"
+  },
+  {
+   "id": "supraspinatus",
+   "name": "Supraspinatus",
+   "latin": "Musculus supraspinatus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Abducts the arm"
+   ],
+   "summary": "Abducts the arm at the shoulder, acting with the deltoid from the start of the movement. Supplied by the suprascapular nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/supraspinatus/"
+  },
+  {
+   "id": "t1-vertebra",
+   "name": "T1 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The first of the twelve thoracic vertebrae, in the upper back; it carries the first pair of ribs. Muscles attached include the trapezius and rhomboid minor.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t10-vertebra",
+   "name": "T10 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tenth of the twelve thoracic vertebrae, in the lower back; it carries the tenth pair of ribs. Muscles attached include the latissimus dorsi and trapezius.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t11-vertebra",
+   "name": "T11 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The eleventh of the twelve thoracic vertebrae, in the lower back; it carries the eleventh pair of ribs. Muscles attached include the latissimus dorsi and trapezius.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t12-vertebra",
+   "name": "T12 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The twelfth of the twelve thoracic vertebrae, in the lower back; it carries the twelfth pair of ribs. Muscles attached include the latissimus dorsi, trapezius and psoas major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t2-vertebra",
+   "name": "T2 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The second of the twelve thoracic vertebrae, in the upper back; it carries the second pair of ribs. Muscles attached include the trapezius and rhomboid major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t3-vertebra",
+   "name": "T3 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The third of the twelve thoracic vertebrae, in the upper back; it carries the third pair of ribs. Muscles attached include the trapezius and rhomboid major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t4-vertebra",
+   "name": "T4 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fourth of the twelve thoracic vertebrae, in the upper back; it carries the fourth pair of ribs. Muscles attached include the trapezius and rhomboid major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t5-vertebra",
+   "name": "T5 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The fifth of the twelve thoracic vertebrae, in the middle back; it carries the fifth pair of ribs. Muscles attached include the trapezius and rhomboid major.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t6-vertebra",
+   "name": "T6 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The sixth of the twelve thoracic vertebrae, in the middle back; it carries the sixth pair of ribs. Muscles attached include the trapezius.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t7-vertebra",
+   "name": "T7 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The seventh of the twelve thoracic vertebrae, in the middle back; it carries the seventh pair of ribs. Muscles attached include the latissimus dorsi and trapezius.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t8-vertebra",
+   "name": "T8 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The eighth of the twelve thoracic vertebrae, in the middle back; it carries the eighth pair of ribs. Muscles attached include the latissimus dorsi and trapezius.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "t9-vertebra",
+   "name": "T9 vertebra",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The ninth of the twelve thoracic vertebrae, in the lower back; it carries the ninth pair of ribs. Muscles attached include the latissimus dorsi and trapezius.",
+   "themes": [
+    {
+     "theme": "back",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/thoracic-vertebrae/"
+  },
+  {
+   "id": "talus",
+   "name": "Talus (ankle bone)",
+   "latin": "Talus",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The ankle bone that links the leg to the foot, between the tibia, the fibula and the calcaneus.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/talus/"
+  },
+  {
+   "id": "temporalis",
+   "name": "Temporalis",
+   "latin": "Musculus temporalis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Closes the jaw",
+    "Retracts the jaw"
+   ],
+   "summary": "Elevates the mandible (closes the jaw). Supplied by the mandibular nerve (CN V3), deep temporal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 1
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/temporalis/"
+  },
+  {
+   "id": "tensor-fasciae-latae",
+   "name": "Tensor fasciae latae",
+   "latin": "Musculus tensor fasciae latae",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Abducts the hip",
+    "Rotates the thigh medially",
+    "Flexes the hip"
+   ],
+   "summary": "Abducts and medially rotates the hip and tenses the fascia lata and iliotibial tract. Supplied by the superior gluteal nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/tensor-fasciae-latae/"
+  },
+  {
+   "id": "tenth-rib",
+   "name": "Tenth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The tenth of the twelve pairs of ribs, a false rib, whose cartilage joins the rib above. Muscles attached include the external oblique and internal oblique.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "teres-major",
+   "name": "Teres major",
+   "latin": "Musculus teres major",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Adducts the arm",
+    "Extends the shoulder",
+    "Rotates the arm medially"
+   ],
+   "summary": "Adducts and medially rotates the arm at the shoulder. Supplied by the lower subscapular nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/teres-major/"
+  },
+  {
+   "id": "teres-minor",
+   "name": "Teres minor",
+   "latin": "Musculus teres minor",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Rotates the arm laterally"
+   ],
+   "summary": "Laterally rotates the shoulder. Supplied by the axillary nerve.",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/teres-minor/"
+  },
+  {
+   "id": "testis",
+   "name": "Testis",
+   "latin": "Testis",
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Produces sperm and the hormone testosterone.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/testis/"
+  },
+  {
+   "id": "third-metacarpal",
+   "name": "Third metacarpal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the palm, the one that leads to the middle finger. Muscles attached include the flexor carpi radialis, extensor carpi radialis brevis and dorsal interossei (hand).",
+   "themes": [
+    {
+     "theme": "forearm-and-hand",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metacarpals/"
+  },
+  {
+   "id": "third-metatarsal",
+   "name": "Third metatarsal",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "One of the five long bones of the sole of the foot, the one that leads to the third toe.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/metatarsals/"
+  },
+  {
+   "id": "third-rib",
+   "name": "Third rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The third of the twelve pairs of ribs, a true rib, joined to the sternum by its own cartilage. Muscles attached include the serratus anterior and pectoralis minor.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 2
+    },
+    {
+     "theme": "skeleton",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "thymus",
+   "name": "Thymus",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Trains the T cells of the immune system. Large in children, it shrinks after puberty.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 3
+    },
+    {
+     "theme": "organs",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/endocrine-glands/"
+  },
+  {
+   "id": "thyrohyoid",
+   "name": "Thyrohyoid",
+   "latin": "Musculus thyrohyoideus",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Lowers the hyoid bone"
+   ],
+   "summary": "Depresses the hyoid bone and elevates the larynx when the hyoid is fixed. Supplied by C1 fibres carried by the hypoglossal nerve (CN XII), nerve to thyrohyoid.",
+   "themes": [
+    {
+     "theme": "neck",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/thyrohyoid/"
+  },
+  {
+   "id": "tibia",
+   "name": "Tibia",
+   "latin": "Tibia",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The shin bone, the larger of the two leg bones, which carries the body's weight to the ankle. Muscles attached include the soleus, extensor digitorum longus and tibialis anterior.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/tibia/"
+  },
+  {
+   "id": "tibialis-anterior",
+   "name": "Tibialis anterior",
+   "latin": "Musculus tibialis anterior",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Dorsiflexes the ankle",
+    "Inverts the foot"
+   ],
+   "summary": "Dorsiflexes the ankle and inverts the foot. Supplied by the deep fibular nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/tibialis-anterior/"
+  },
+  {
+   "id": "tibialis-posterior",
+   "name": "Tibialis posterior",
+   "latin": "Musculus tibialis posterior",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Inverts the foot",
+    "Plantar flexes the ankle"
+   ],
+   "summary": "Inverts the foot and plantar flexes the ankle. Supplied by the tibial nerve.",
+   "themes": [
+    {
+     "theme": "leg-and-foot",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/tibialis-posterior/"
+  },
+  {
+   "id": "tongue",
+   "name": "Tongue",
+   "latin": "Lingua",
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "A muscular organ that moves food for chewing and swallowing, carries the taste buds and shapes speech.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/tongue/"
+  },
+  {
+   "id": "trachea",
+   "name": "Trachea",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The windpipe: a tube held open by rings of cartilage that carries air from the larynx to the two main bronchi.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 3
+    },
+    {
+     "theme": "organs",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/lungs/"
+  },
+  {
+   "id": "transversus-abdominis",
+   "name": "Transversus abdominis",
+   "latin": "Musculus transversus abdominis",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Compresses the abdomen"
+   ],
+   "summary": "Compresses and supports the abdominal viscera. Supplied by the thoraco-abdominal nerves, subcostal nerve, iliohypogastric and ilioinguinal nerves.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/transversus-abdominis/"
+  },
+  {
+   "id": "trapezius",
+   "name": "Trapezius",
+   "latin": "Musculus trapezius",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Elevates the scapula",
+    "Retracts the scapula",
+    "Depresses the scapula",
+    "Rotates the scapula upward"
+   ],
+   "summary": "Rotates the scapula upwards (descending and ascending parts together) and retracts the scapula (transverse part). Supplied by the accessory nerve (CN XI).",
+   "themes": [
+    {
+     "theme": "shoulder",
+     "level": 2
+    },
+    {
+     "theme": "back",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    },
+    {
+     "theme": "trunk-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/trapezius/"
+  },
+  {
+   "id": "triceps-brachii",
+   "name": "Triceps brachii",
+   "latin": "Musculus triceps brachii",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the elbow",
+    "Extends the shoulder"
+   ],
+   "summary": "Extends the elbow. Supplied by the radial nerve.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 1
+    },
+    {
+     "theme": "upper-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/triceps-brachii/"
+  },
+  {
+   "id": "twelfth-rib",
+   "name": "Twelfth rib",
+   "latin": null,
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The twelfth of the twelve pairs of ribs, a floating rib, with a free front end. Muscles attached include the external oblique, internal oblique and quadratus lumborum.",
+   "themes": [
+    {
+     "theme": "thorax",
+     "level": 3
+    },
+    {
+     "theme": "skeleton",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ribs/"
+  },
+  {
+   "id": "ulna",
+   "name": "Ulna",
+   "latin": "Ulna",
+   "kind": "bone",
+   "layer": "bone",
+   "actions": [],
+   "summary": "The forearm bone on the little-finger side; its upper end forms the point of the elbow. Muscles attached include the flexor digitorum superficialis, flexor digitorum profundus and flexor carpi ulnaris.",
+   "themes": [
+    {
+     "theme": "arm-and-elbow",
+     "level": 1
+    },
+    {
+     "theme": "forearm-and-hand",
+     "level": 1
+    },
+    {
+     "theme": "skeleton",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/bones/ulna/"
+  },
+  {
+   "id": "ureter",
+   "name": "Ureter",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "A muscular tube that carries urine from the kidney down to the bladder.",
+   "themes": [
+    {
+     "theme": "abdomen",
+     "level": 2
+    },
+    {
+     "theme": "organs",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/kidneys-and-bladder/"
+  },
+  {
+   "id": "urinary-bladder",
+   "name": "Urinary bladder",
+   "latin": null,
+   "kind": "organ",
+   "layer": "bone",
+   "actions": [],
+   "summary": "Stores urine in the pelvis until it is emptied through the urethra.",
+   "themes": [
+    {
+     "theme": "pelvis",
+     "level": 1
+    },
+    {
+     "theme": "organs",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/organs/kidneys-and-bladder/"
+  },
+  {
+   "id": "vastus-intermedius",
+   "name": "Vastus intermedius",
+   "latin": "Musculus vastus intermedius",
+   "kind": "muscle",
+   "layer": "deep",
+   "actions": [
+    "Extends the knee"
+   ],
+   "summary": "Extends the knee. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 2
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 2
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/vastus-intermedius/"
+  },
+  {
+   "id": "vastus-lateralis",
+   "name": "Vastus lateralis",
+   "latin": "Musculus vastus lateralis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the knee"
+   ],
+   "summary": "Extends the knee. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/vastus-lateralis/"
+  },
+  {
+   "id": "vastus-medialis",
+   "name": "Vastus medialis",
+   "latin": "Musculus vastus medialis",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Extends the knee"
+   ],
+   "summary": "Extends the knee. Supplied by the femoral nerve.",
+   "themes": [
+    {
+     "theme": "hip-and-thigh",
+     "level": 1
+    },
+    {
+     "theme": "lower-limb-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/vastus-medialis/"
+  },
+  {
+   "id": "zygomaticus-major",
+   "name": "Zygomaticus major",
+   "latin": "Musculus zygomaticus major",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Pulls the corners of the mouth up"
+   ],
+   "summary": "Draws the angle of the mouth upward and laterally (smiling). Supplied by the facial nerve (CN VII), zygomatic and buccal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 1
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/zygomaticus-major/"
+  },
+  {
+   "id": "zygomaticus-minor",
+   "name": "Zygomaticus minor",
+   "latin": "Musculus zygomaticus minor",
+   "kind": "muscle",
+   "layer": "superficial",
+   "actions": [
+    "Raises the upper lip"
+   ],
+   "summary": "Elevates the upper lip. Supplied by the facial nerve (CN VII), zygomatic and buccal branches.",
+   "themes": [
+    {
+     "theme": "head",
+     "level": 2
+    },
+    {
+     "theme": "head-and-neck-muscles",
+     "level": 3
+    }
+   ],
+   "page": "https://anatomyatlas3d.app/muscles/zygomaticus-minor/"
+  }
+ ]
+}

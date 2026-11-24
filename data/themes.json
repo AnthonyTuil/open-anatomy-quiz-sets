@@ -1,0 +1,1555 @@
+{
+ "name": "Open anatomy quiz sets: themes",
+ "version": "1.0.0",
+ "updated": "2026-11-24",
+ "license": "CC BY-SA 4.0",
+ "themes": [
+  {
+   "id": "shoulder",
+   "title": "Shoulder",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "clavicle",
+      "deltoid",
+      "humerus",
+      "infraspinatus",
+      "scapula",
+      "subscapularis",
+      "supraspinatus"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "coracobrachialis",
+      "latissimus-dorsi",
+      "pectoralis-major",
+      "serratus-anterior",
+      "teres-major",
+      "teres-minor",
+      "trapezius"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "levator-scapulae",
+      "pectoralis-minor",
+      "rhomboid-major",
+      "rhomboid-minor"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "rotator-cuff",
+     "label": "the rotator cuff muscles",
+     "structures": [
+      "supraspinatus",
+      "infraspinatus",
+      "teres-minor",
+      "subscapularis"
+     ]
+    },
+    {
+     "id": "scapular-retractors",
+     "label": "the muscles that pull the shoulder blades together",
+     "structures": [
+      "trapezius",
+      "rhomboid-major",
+      "rhomboid-minor"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/shoulder/"
+  },
+  {
+   "id": "arm-and-elbow",
+   "title": "Arm and elbow",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "biceps-brachii",
+      "humerus",
+      "triceps-brachii",
+      "ulna"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "brachialis",
+      "brachioradialis",
+      "pronator-teres",
+      "radius"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "coracobrachialis",
+      "extensor-carpi-radialis-longus",
+      "flexor-carpi-radialis"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "elbow-flexors",
+     "label": "the elbow flexors",
+     "structures": [
+      "biceps-brachii",
+      "brachialis",
+      "brachioradialis"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/arm-and-elbow/"
+  },
+  {
+   "id": "forearm-and-hand",
+   "title": "Forearm and hand",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "brachioradialis",
+      "carpal-bones",
+      "extensor-carpi-ulnaris",
+      "extensor-digitorum",
+      "first-metacarpal",
+      "flexor-carpi-radialis",
+      "flexor-carpi-ulnaris",
+      "flexor-digitorum-profundus",
+      "flexor-digitorum-superficialis",
+      "palmaris-longus",
+      "radius",
+      "ulna"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "abductor-digiti-minimi-hand",
+      "abductor-pollicis-brevis",
+      "abductor-pollicis-longus",
+      "adductor-pollicis",
+      "dorsal-interossei-hand",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-radialis-longus",
+      "extensor-indicis",
+      "extensor-pollicis-brevis",
+      "extensor-pollicis-longus",
+      "flexor-pollicis-brevis",
+      "flexor-pollicis-longus",
+      "fourth-metacarpal",
+      "lumbricals-hand",
+      "pronator-quadratus",
+      "second-metacarpal",
+      "third-metacarpal"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "distal-phalanx-of-index-finger",
+      "distal-phalanx-of-little-finger",
+      "distal-phalanx-of-middle-finger",
+      "distal-phalanx-of-ring-finger",
+      "distal-phalanx-of-thumb",
+      "fifth-metacarpal",
+      "flexor-digiti-minimi-brevis-hand",
+      "middle-phalanx-of-index-finger",
+      "middle-phalanx-of-little-finger",
+      "middle-phalanx-of-middle-finger",
+      "middle-phalanx-of-ring-finger",
+      "opponens-digiti-minimi",
+      "opponens-pollicis",
+      "palmar-interossei",
+      "pronator-teres",
+      "proximal-phalanx-of-index-finger",
+      "proximal-phalanx-of-little-finger",
+      "proximal-phalanx-of-middle-finger",
+      "proximal-phalanx-of-ring-finger",
+      "proximal-phalanx-of-thumb"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "wrist-flexors",
+     "label": "the wrist flexors",
+     "structures": [
+      "flexor-carpi-radialis",
+      "flexor-carpi-ulnaris",
+      "palmaris-longus"
+     ]
+    },
+    {
+     "id": "wrist-extensors",
+     "label": "the wrist extensors",
+     "structures": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris"
+     ]
+    },
+    {
+     "id": "thenar",
+     "label": "the thenar muscles",
+     "structures": [
+      "abductor-pollicis-brevis",
+      "flexor-pollicis-brevis",
+      "opponens-pollicis"
+     ]
+    },
+    {
+     "id": "hypothenar",
+     "label": "the hypothenar muscles",
+     "structures": [
+      "abductor-digiti-minimi-hand",
+      "flexor-digiti-minimi-brevis-hand",
+      "opponens-digiti-minimi"
+     ]
+    },
+    {
+     "id": "metacarpals",
+     "label": "the metacarpal bones",
+     "structures": [
+      "first-metacarpal",
+      "second-metacarpal",
+      "third-metacarpal",
+      "fourth-metacarpal",
+      "fifth-metacarpal"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/forearm-and-hand/"
+  },
+  {
+   "id": "thorax",
+   "title": "Thorax",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "external-intercostals",
+      "heart",
+      "internal-intercostals",
+      "lung",
+      "pectoralis-major",
+      "pectoralis-minor",
+      "serratus-anterior",
+      "sternum"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "diaphragm",
+      "eighth-rib",
+      "fifth-rib",
+      "first-rib",
+      "fourth-rib",
+      "ninth-rib",
+      "seventh-rib",
+      "sixth-rib",
+      "third-rib"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "eleventh-rib",
+      "second-rib",
+      "tenth-rib",
+      "thymus",
+      "trachea",
+      "twelfth-rib"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "true-ribs",
+     "label": "the true ribs (1 to 7)",
+     "structures": [
+      "first-rib",
+      "second-rib",
+      "third-rib",
+      "fourth-rib",
+      "fifth-rib",
+      "sixth-rib",
+      "seventh-rib"
+     ]
+    },
+    {
+     "id": "false-ribs",
+     "label": "the false ribs (8 to 12)",
+     "structures": [
+      "eighth-rib",
+      "ninth-rib",
+      "tenth-rib",
+      "eleventh-rib",
+      "twelfth-rib"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/thorax/"
+  },
+  {
+   "id": "back",
+   "title": "Back",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "atlas",
+      "axis",
+      "c7-vertebra",
+      "iliocostalis",
+      "l5-vertebra",
+      "latissimus-dorsi",
+      "rhomboid-major",
+      "spinalis",
+      "trapezius"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "l1-vertebra",
+      "l2-vertebra",
+      "l3-vertebra",
+      "l4-vertebra",
+      "longissimus",
+      "quadratus-lumborum",
+      "rhomboid-minor",
+      "semispinalis-capitis",
+      "splenius-capitis",
+      "t10-vertebra",
+      "t11-vertebra",
+      "t12-vertebra",
+      "t6-vertebra",
+      "t7-vertebra",
+      "t9-vertebra"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "c3-vertebra",
+      "c4-vertebra",
+      "c5-vertebra",
+      "c6-vertebra",
+      "semispinalis-cervicis",
+      "splenius-cervicis",
+      "t1-vertebra",
+      "t2-vertebra",
+      "t3-vertebra",
+      "t4-vertebra",
+      "t5-vertebra",
+      "t8-vertebra"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "cervical-vertebrae",
+     "label": "the cervical vertebrae",
+     "structures": [
+      "atlas",
+      "axis",
+      "c3-vertebra",
+      "c4-vertebra",
+      "c5-vertebra",
+      "c6-vertebra",
+      "c7-vertebra"
+     ]
+    },
+    {
+     "id": "lumbar-vertebrae",
+     "label": "the lumbar vertebrae",
+     "structures": [
+      "l1-vertebra",
+      "l2-vertebra",
+      "l3-vertebra",
+      "l4-vertebra",
+      "l5-vertebra"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/back/"
+  },
+  {
+   "id": "abdomen",
+   "title": "Abdomen",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "external-oblique",
+      "internal-oblique",
+      "kidney",
+      "liver",
+      "rectus-abdominis",
+      "stomach",
+      "transversus-abdominis"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "colon",
+      "pancreas",
+      "psoas-minor",
+      "small-intestine",
+      "spleen",
+      "ureter"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "adrenal-gland",
+      "diaphragm",
+      "gallbladder",
+      "psoas-major"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "abdominal-wall",
+     "label": "the muscles of the abdominal wall",
+     "structures": [
+      "rectus-abdominis",
+      "external-oblique",
+      "internal-oblique",
+      "transversus-abdominis"
+     ]
+    },
+    {
+     "id": "digestive-tract",
+     "label": "the organs of the digestive tract",
+     "structures": [
+      "stomach",
+      "small-intestine",
+      "colon"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/abdomen/"
+  },
+  {
+   "id": "pelvis",
+   "title": "Pelvis",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "hip-bone",
+      "prostate",
+      "sacrum",
+      "testis",
+      "urinary-bladder"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "gluteus-maximus",
+      "gluteus-medius",
+      "gluteus-minimus",
+      "psoas-major"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "iliacus",
+      "obturator-internus",
+      "piriformis"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "gluteal-muscles",
+     "label": "the gluteal muscles",
+     "structures": [
+      "gluteus-maximus",
+      "gluteus-medius",
+      "gluteus-minimus"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/pelvis/"
+  },
+  {
+   "id": "hip-and-thigh",
+   "title": "Hip and thigh",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "adductor-magnus",
+      "biceps-femoris",
+      "femur",
+      "gluteus-maximus",
+      "hip-bone",
+      "semimembranosus",
+      "vastus-lateralis",
+      "vastus-medialis"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "adductor-longus",
+      "gluteus-medius",
+      "gluteus-minimus",
+      "gracilis",
+      "patella",
+      "piriformis",
+      "psoas-major",
+      "rectus-femoris",
+      "sartorius",
+      "semitendinosus",
+      "tensor-fasciae-latae",
+      "vastus-intermedius"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "adductor-brevis",
+      "iliacus",
+      "inferior-gemellus",
+      "obturator-externus",
+      "obturator-internus",
+      "pectineus",
+      "superior-gemellus"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "quadriceps",
+     "label": "the quadriceps muscles",
+     "structures": [
+      "rectus-femoris",
+      "vastus-lateralis",
+      "vastus-medialis",
+      "vastus-intermedius"
+     ]
+    },
+    {
+     "id": "hamstrings",
+     "label": "the hamstrings",
+     "structures": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+     ]
+    },
+    {
+     "id": "adductors",
+     "label": "the adductor muscles",
+     "structures": [
+      "adductor-longus",
+      "adductor-magnus",
+      "gracilis",
+      "pectineus"
+     ]
+    },
+    {
+     "id": "gluteal-muscles",
+     "label": "the gluteal muscles",
+     "structures": [
+      "gluteus-maximus",
+      "gluteus-medius",
+      "gluteus-minimus"
+     ]
+    },
+    {
+     "id": "deep-hip-rotators",
+     "label": "the deep hip rotators",
+     "structures": [
+      "piriformis",
+      "superior-gemellus",
+      "inferior-gemellus",
+      "obturator-internus"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/hip-and-thigh/"
+  },
+  {
+   "id": "leg-and-foot",
+   "title": "Leg and foot",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "calcaneus",
+      "femur",
+      "fibula",
+      "fibularis-longus",
+      "gastrocnemius",
+      "patella",
+      "soleus",
+      "talus",
+      "tibia",
+      "tibialis-anterior",
+      "tibialis-posterior"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "abductor-digiti-minimi-foot",
+      "abductor-hallucis",
+      "cuboid",
+      "extensor-digitorum-brevis",
+      "extensor-digitorum-longus",
+      "extensor-hallucis-brevis",
+      "extensor-hallucis-longus",
+      "fibularis-brevis",
+      "fifth-metatarsal",
+      "first-metatarsal",
+      "flexor-digitorum-brevis",
+      "flexor-digitorum-longus",
+      "flexor-hallucis-longus",
+      "medial-cuneiform",
+      "navicular",
+      "second-metatarsal"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "distal-phalanx-of-fifth-toe",
+      "distal-phalanx-of-fourth-toe",
+      "distal-phalanx-of-great-toe",
+      "distal-phalanx-of-second-toe",
+      "distal-phalanx-of-third-toe",
+      "fourth-metatarsal",
+      "intermediate-cuneiform",
+      "lateral-cuneiform",
+      "middle-phalanx-of-fifth-toe",
+      "middle-phalanx-of-fourth-toe",
+      "middle-phalanx-of-second-toe",
+      "middle-phalanx-of-third-toe",
+      "proximal-phalanx-of-fifth-toe",
+      "proximal-phalanx-of-fourth-toe",
+      "proximal-phalanx-of-great-toe",
+      "proximal-phalanx-of-second-toe",
+      "proximal-phalanx-of-third-toe",
+      "third-metatarsal"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "anterior-leg",
+     "label": "the muscles of the front of the leg",
+     "structures": [
+      "tibialis-anterior",
+      "extensor-digitorum-longus",
+      "extensor-hallucis-longus"
+     ]
+    },
+    {
+     "id": "deep-posterior-leg",
+     "label": "the deep muscles of the back of the leg",
+     "structures": [
+      "tibialis-posterior",
+      "flexor-digitorum-longus",
+      "flexor-hallucis-longus"
+     ]
+    },
+    {
+     "id": "tarsals",
+     "label": "the tarsal bones",
+     "structures": [
+      "calcaneus",
+      "talus",
+      "navicular",
+      "cuboid",
+      "medial-cuneiform",
+      "intermediate-cuneiform",
+      "lateral-cuneiform"
+     ]
+    },
+    {
+     "id": "metatarsals",
+     "label": "the metatarsal bones",
+     "structures": [
+      "first-metatarsal",
+      "second-metatarsal",
+      "third-metatarsal",
+      "fourth-metatarsal",
+      "fifth-metatarsal"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/leg-and-foot/"
+  },
+  {
+   "id": "head",
+   "title": "Head",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "cerebrum",
+      "eyeball",
+      "frontalis",
+      "mandible",
+      "masseter",
+      "orbicularis-oculi",
+      "skull",
+      "temporalis"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "buccinator",
+      "cerebellum",
+      "depressor-anguli-oris",
+      "depressor-labii-inferioris",
+      "levator-labii-superioris",
+      "levator-labii-superioris-alaeque-nasi",
+      "mentalis",
+      "orbicularis-oris",
+      "procerus",
+      "risorius",
+      "superior-auricular-muscle",
+      "tongue",
+      "zygomaticus-major",
+      "zygomaticus-minor"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "anterior-auricular-muscle",
+      "brainstem",
+      "corrugator-supercilii",
+      "depressor-septi-nasi",
+      "depressor-supercilii",
+      "levator-anguli-oris",
+      "nasalis",
+      "posterior-auricular-muscle"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "lip-muscles",
+     "label": "the muscles that move the lips",
+     "structures": [
+      "orbicularis-oris",
+      "zygomaticus-major",
+      "zygomaticus-minor",
+      "risorius",
+      "depressor-anguli-oris",
+      "levator-anguli-oris"
+     ]
+    },
+    {
+     "id": "auricular-muscles",
+     "label": "the muscles around the ear",
+     "structures": [
+      "anterior-auricular-muscle",
+      "superior-auricular-muscle",
+      "posterior-auricular-muscle"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/head/"
+  },
+  {
+   "id": "neck",
+   "title": "Neck",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "anterior-scalene",
+      "levator-scapulae",
+      "middle-scalene",
+      "omohyoid",
+      "platysma",
+      "posterior-scalene",
+      "sternocleidomastoid",
+      "sternothyroid"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "atlas",
+      "axis",
+      "c7-vertebra",
+      "digastric",
+      "hyoglossus",
+      "mylohyoid",
+      "sternohyoid",
+      "stylohyoid",
+      "thyrohyoid"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "c3-vertebra",
+      "c4-vertebra",
+      "c5-vertebra",
+      "c6-vertebra",
+      "semispinalis-capitis",
+      "splenius-capitis"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "suprahyoid",
+     "label": "the suprahyoid muscles",
+     "structures": [
+      "digastric",
+      "mylohyoid",
+      "stylohyoid"
+     ]
+    },
+    {
+     "id": "infrahyoid",
+     "label": "the infrahyoid muscles",
+     "structures": [
+      "sternohyoid",
+      "sternothyroid",
+      "thyrohyoid",
+      "omohyoid"
+     ]
+    },
+    {
+     "id": "scalenes",
+     "label": "the scalene muscles",
+     "structures": [
+      "anterior-scalene",
+      "middle-scalene",
+      "posterior-scalene"
+     ]
+    },
+    {
+     "id": "cervical-vertebrae",
+     "label": "the cervical vertebrae",
+     "structures": [
+      "atlas",
+      "axis",
+      "c3-vertebra",
+      "c4-vertebra",
+      "c5-vertebra",
+      "c6-vertebra",
+      "c7-vertebra"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/neck/"
+  },
+  {
+   "id": "skeleton",
+   "title": "Skeleton",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "calcaneus",
+      "clavicle",
+      "femur",
+      "fibula",
+      "hip-bone",
+      "humerus",
+      "mandible",
+      "radius",
+      "sacrum",
+      "scapula",
+      "skull",
+      "sternum",
+      "tibia",
+      "ulna"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "atlas",
+      "axis",
+      "c7-vertebra",
+      "carpal-bones",
+      "eighth-rib",
+      "fifth-rib",
+      "first-metacarpal",
+      "first-metatarsal",
+      "first-rib",
+      "fourth-rib",
+      "l1-vertebra",
+      "l2-vertebra",
+      "l3-vertebra",
+      "l4-vertebra",
+      "l5-vertebra",
+      "navicular",
+      "ninth-rib",
+      "patella",
+      "seventh-rib",
+      "sixth-rib",
+      "t11-vertebra",
+      "t12-vertebra",
+      "talus",
+      "tenth-rib",
+      "third-rib"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "c3-vertebra",
+      "c4-vertebra",
+      "c5-vertebra",
+      "c6-vertebra",
+      "cuboid",
+      "distal-phalanx-of-fifth-toe",
+      "distal-phalanx-of-fourth-toe",
+      "distal-phalanx-of-great-toe",
+      "distal-phalanx-of-index-finger",
+      "distal-phalanx-of-little-finger",
+      "distal-phalanx-of-middle-finger",
+      "distal-phalanx-of-ring-finger",
+      "distal-phalanx-of-second-toe",
+      "distal-phalanx-of-third-toe",
+      "distal-phalanx-of-thumb",
+      "eleventh-rib",
+      "fifth-metacarpal",
+      "fifth-metatarsal",
+      "fourth-metacarpal",
+      "fourth-metatarsal",
+      "intermediate-cuneiform",
+      "lateral-cuneiform",
+      "medial-cuneiform",
+      "middle-phalanx-of-fifth-toe",
+      "middle-phalanx-of-fourth-toe",
+      "middle-phalanx-of-index-finger",
+      "middle-phalanx-of-little-finger",
+      "middle-phalanx-of-middle-finger",
+      "middle-phalanx-of-ring-finger",
+      "middle-phalanx-of-second-toe",
+      "middle-phalanx-of-third-toe",
+      "proximal-phalanx-of-fifth-toe",
+      "proximal-phalanx-of-fourth-toe",
+      "proximal-phalanx-of-great-toe",
+      "proximal-phalanx-of-index-finger",
+      "proximal-phalanx-of-little-finger",
+      "proximal-phalanx-of-middle-finger",
+      "proximal-phalanx-of-ring-finger",
+      "proximal-phalanx-of-second-toe",
+      "proximal-phalanx-of-third-toe",
+      "proximal-phalanx-of-thumb",
+      "second-metacarpal",
+      "second-metatarsal",
+      "second-rib",
+      "t1-vertebra",
+      "t10-vertebra",
+      "t2-vertebra",
+      "t3-vertebra",
+      "t4-vertebra",
+      "t5-vertebra",
+      "t6-vertebra",
+      "t7-vertebra",
+      "t8-vertebra",
+      "t9-vertebra",
+      "third-metacarpal",
+      "third-metatarsal",
+      "twelfth-rib"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "metacarpals",
+     "label": "the metacarpal bones",
+     "structures": [
+      "first-metacarpal",
+      "second-metacarpal",
+      "third-metacarpal",
+      "fourth-metacarpal",
+      "fifth-metacarpal"
+     ]
+    },
+    {
+     "id": "true-ribs",
+     "label": "the true ribs (1 to 7)",
+     "structures": [
+      "first-rib",
+      "second-rib",
+      "third-rib",
+      "fourth-rib",
+      "fifth-rib",
+      "sixth-rib",
+      "seventh-rib"
+     ]
+    },
+    {
+     "id": "false-ribs",
+     "label": "the false ribs (8 to 12)",
+     "structures": [
+      "eighth-rib",
+      "ninth-rib",
+      "tenth-rib",
+      "eleventh-rib",
+      "twelfth-rib"
+     ]
+    },
+    {
+     "id": "cervical-vertebrae",
+     "label": "the cervical vertebrae",
+     "structures": [
+      "atlas",
+      "axis",
+      "c3-vertebra",
+      "c4-vertebra",
+      "c5-vertebra",
+      "c6-vertebra",
+      "c7-vertebra"
+     ]
+    },
+    {
+     "id": "lumbar-vertebrae",
+     "label": "the lumbar vertebrae",
+     "structures": [
+      "l1-vertebra",
+      "l2-vertebra",
+      "l3-vertebra",
+      "l4-vertebra",
+      "l5-vertebra"
+     ]
+    },
+    {
+     "id": "tarsals",
+     "label": "the tarsal bones",
+     "structures": [
+      "calcaneus",
+      "talus",
+      "navicular",
+      "cuboid",
+      "medial-cuneiform",
+      "intermediate-cuneiform",
+      "lateral-cuneiform"
+     ]
+    },
+    {
+     "id": "metatarsals",
+     "label": "the metatarsal bones",
+     "structures": [
+      "first-metatarsal",
+      "second-metatarsal",
+      "third-metatarsal",
+      "fourth-metatarsal",
+      "fifth-metatarsal"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/skeleton/"
+  },
+  {
+   "id": "upper-limb-muscles",
+   "title": "Upper limb muscles",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "biceps-brachii",
+      "deltoid",
+      "extensor-digitorum",
+      "infraspinatus",
+      "latissimus-dorsi",
+      "pectoralis-major",
+      "rhomboid-major",
+      "serratus-anterior",
+      "subscapularis",
+      "trapezius",
+      "triceps-brachii"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "brachialis",
+      "brachioradialis",
+      "coracobrachialis",
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-ulnaris",
+      "flexor-carpi-radialis",
+      "flexor-carpi-ulnaris",
+      "flexor-digitorum-profundus",
+      "flexor-digitorum-superficialis",
+      "levator-scapulae",
+      "palmaris-longus",
+      "pectoralis-minor",
+      "pronator-teres",
+      "supraspinatus",
+      "teres-major",
+      "teres-minor"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "abductor-digiti-minimi-hand",
+      "abductor-pollicis-brevis",
+      "abductor-pollicis-longus",
+      "adductor-pollicis",
+      "dorsal-interossei-hand",
+      "extensor-carpi-radialis-brevis",
+      "extensor-indicis",
+      "extensor-pollicis-brevis",
+      "extensor-pollicis-longus",
+      "flexor-digiti-minimi-brevis-hand",
+      "flexor-pollicis-brevis",
+      "flexor-pollicis-longus",
+      "lumbricals-hand",
+      "opponens-digiti-minimi",
+      "opponens-pollicis",
+      "palmar-interossei",
+      "pronator-quadratus",
+      "rhomboid-minor"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "rotator-cuff",
+     "label": "the rotator cuff muscles",
+     "structures": [
+      "supraspinatus",
+      "infraspinatus",
+      "teres-minor",
+      "subscapularis"
+     ]
+    },
+    {
+     "id": "scapular-retractors",
+     "label": "the muscles that pull the shoulder blades together",
+     "structures": [
+      "trapezius",
+      "rhomboid-major",
+      "rhomboid-minor"
+     ]
+    },
+    {
+     "id": "elbow-flexors",
+     "label": "the elbow flexors",
+     "structures": [
+      "biceps-brachii",
+      "brachialis",
+      "brachioradialis"
+     ]
+    },
+    {
+     "id": "wrist-flexors",
+     "label": "the wrist flexors",
+     "structures": [
+      "flexor-carpi-radialis",
+      "flexor-carpi-ulnaris",
+      "palmaris-longus"
+     ]
+    },
+    {
+     "id": "wrist-extensors",
+     "label": "the wrist extensors",
+     "structures": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris"
+     ]
+    },
+    {
+     "id": "thenar",
+     "label": "the thenar muscles",
+     "structures": [
+      "abductor-pollicis-brevis",
+      "flexor-pollicis-brevis",
+      "opponens-pollicis"
+     ]
+    },
+    {
+     "id": "hypothenar",
+     "label": "the hypothenar muscles",
+     "structures": [
+      "abductor-digiti-minimi-hand",
+      "flexor-digiti-minimi-brevis-hand",
+      "opponens-digiti-minimi"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/upper-limb-muscles/"
+  },
+  {
+   "id": "lower-limb-muscles",
+   "title": "Lower limb muscles",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "adductor-magnus",
+      "biceps-femoris",
+      "gastrocnemius",
+      "gluteus-maximus",
+      "rectus-femoris",
+      "sartorius",
+      "semimembranosus",
+      "soleus",
+      "vastus-lateralis",
+      "vastus-medialis"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "adductor-longus",
+      "extensor-digitorum-longus",
+      "fibularis-brevis",
+      "fibularis-longus",
+      "flexor-digitorum-longus",
+      "gluteus-medius",
+      "gluteus-minimus",
+      "gracilis",
+      "piriformis",
+      "psoas-major",
+      "semitendinosus",
+      "tensor-fasciae-latae",
+      "tibialis-anterior",
+      "tibialis-posterior",
+      "vastus-intermedius"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "abductor-digiti-minimi-foot",
+      "abductor-hallucis",
+      "adductor-brevis",
+      "extensor-digitorum-brevis",
+      "extensor-hallucis-brevis",
+      "extensor-hallucis-longus",
+      "flexor-digitorum-brevis",
+      "flexor-hallucis-longus",
+      "iliacus",
+      "inferior-gemellus",
+      "obturator-externus",
+      "obturator-internus",
+      "pectineus",
+      "superior-gemellus"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "quadriceps",
+     "label": "the quadriceps muscles",
+     "structures": [
+      "rectus-femoris",
+      "vastus-lateralis",
+      "vastus-medialis",
+      "vastus-intermedius"
+     ]
+    },
+    {
+     "id": "hamstrings",
+     "label": "the hamstrings",
+     "structures": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+     ]
+    },
+    {
+     "id": "adductors",
+     "label": "the adductor muscles",
+     "structures": [
+      "adductor-longus",
+      "adductor-magnus",
+      "gracilis",
+      "pectineus"
+     ]
+    },
+    {
+     "id": "gluteal-muscles",
+     "label": "the gluteal muscles",
+     "structures": [
+      "gluteus-maximus",
+      "gluteus-medius",
+      "gluteus-minimus"
+     ]
+    },
+    {
+     "id": "deep-hip-rotators",
+     "label": "the deep hip rotators",
+     "structures": [
+      "piriformis",
+      "superior-gemellus",
+      "inferior-gemellus",
+      "obturator-internus"
+     ]
+    },
+    {
+     "id": "anterior-leg",
+     "label": "the muscles of the front of the leg",
+     "structures": [
+      "tibialis-anterior",
+      "extensor-digitorum-longus",
+      "extensor-hallucis-longus"
+     ]
+    },
+    {
+     "id": "deep-posterior-leg",
+     "label": "the deep muscles of the back of the leg",
+     "structures": [
+      "tibialis-posterior",
+      "flexor-digitorum-longus",
+      "flexor-hallucis-longus"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/lower-limb-muscles/"
+  },
+  {
+   "id": "trunk-muscles",
+   "title": "Trunk muscles",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "external-oblique",
+      "latissimus-dorsi",
+      "pectoralis-major",
+      "pectoralis-minor",
+      "rectus-abdominis",
+      "rhomboid-major",
+      "serratus-anterior",
+      "trapezius"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "diaphragm",
+      "external-intercostals",
+      "iliocostalis",
+      "internal-intercostals",
+      "internal-oblique",
+      "quadratus-lumborum",
+      "spinalis",
+      "splenius-capitis",
+      "transversus-abdominis"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "longissimus",
+      "psoas-minor",
+      "rhomboid-minor",
+      "semispinalis-capitis",
+      "semispinalis-cervicis",
+      "splenius-cervicis"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "abdominal-wall",
+     "label": "the muscles of the abdominal wall",
+     "structures": [
+      "rectus-abdominis",
+      "external-oblique",
+      "internal-oblique",
+      "transversus-abdominis"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/trunk-muscles/"
+  },
+  {
+   "id": "head-and-neck-muscles",
+   "title": "Head and neck muscles",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "anterior-scalene",
+      "frontalis",
+      "levator-scapulae",
+      "masseter",
+      "orbicularis-oculi",
+      "orbicularis-oris",
+      "platysma",
+      "sternocleidomastoid",
+      "temporalis",
+      "zygomaticus-major"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "buccinator",
+      "depressor-anguli-oris",
+      "digastric",
+      "hyoglossus",
+      "middle-scalene",
+      "mylohyoid",
+      "omohyoid",
+      "posterior-scalene",
+      "procerus",
+      "semispinalis-capitis",
+      "splenius-capitis",
+      "sternohyoid",
+      "sternothyroid",
+      "stylohyoid",
+      "superior-auricular-muscle"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "anterior-auricular-muscle",
+      "corrugator-supercilii",
+      "depressor-labii-inferioris",
+      "depressor-septi-nasi",
+      "depressor-supercilii",
+      "levator-anguli-oris",
+      "levator-labii-superioris",
+      "levator-labii-superioris-alaeque-nasi",
+      "mentalis",
+      "nasalis",
+      "posterior-auricular-muscle",
+      "risorius",
+      "thyrohyoid",
+      "zygomaticus-minor"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "lip-muscles",
+     "label": "the muscles that move the lips",
+     "structures": [
+      "orbicularis-oris",
+      "zygomaticus-major",
+      "zygomaticus-minor",
+      "risorius",
+      "depressor-anguli-oris",
+      "levator-anguli-oris"
+     ]
+    },
+    {
+     "id": "auricular-muscles",
+     "label": "the muscles around the ear",
+     "structures": [
+      "anterior-auricular-muscle",
+      "superior-auricular-muscle",
+      "posterior-auricular-muscle"
+     ]
+    },
+    {
+     "id": "suprahyoid",
+     "label": "the suprahyoid muscles",
+     "structures": [
+      "digastric",
+      "mylohyoid",
+      "stylohyoid"
+     ]
+    },
+    {
+     "id": "infrahyoid",
+     "label": "the infrahyoid muscles",
+     "structures": [
+      "sternohyoid",
+      "sternothyroid",
+      "thyrohyoid",
+      "omohyoid"
+     ]
+    },
+    {
+     "id": "scalenes",
+     "label": "the scalene muscles",
+     "structures": [
+      "anterior-scalene",
+      "middle-scalene",
+      "posterior-scalene"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/head-and-neck-muscles/"
+  },
+  {
+   "id": "organs",
+   "title": "Organs",
+   "levels": [
+    {
+     "level": 1,
+     "structures": [
+      "cerebrum",
+      "colon",
+      "heart",
+      "kidney",
+      "liver",
+      "lung",
+      "stomach",
+      "urinary-bladder"
+     ]
+    },
+    {
+     "level": 2,
+     "structures": [
+      "cerebellum",
+      "eyeball",
+      "pancreas",
+      "small-intestine",
+      "spleen",
+      "testis",
+      "tongue",
+      "trachea"
+     ]
+    },
+    {
+     "level": 3,
+     "structures": [
+      "adrenal-gland",
+      "brainstem",
+      "gallbladder",
+      "prostate",
+      "thymus",
+      "ureter"
+     ]
+    }
+   ],
+   "groups": [
+    {
+     "id": "digestive-tract",
+     "label": "the organs of the digestive tract",
+     "structures": [
+      "stomach",
+      "small-intestine",
+      "colon"
+     ]
+    }
+   ],
+   "quiz": "https://anatomyatlas3d.app/quiz/organs/"
+  }
+ ]
+}

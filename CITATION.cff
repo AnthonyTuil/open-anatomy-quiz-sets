@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Open anatomy quiz sets"
+version: 1.0.0
+date-released: 2026-11-24
+authors:
+  - name: "Anatomy Atlas 3D"
+    website: "https://anatomyatlas3d.app/"
+license: CC-BY-SA-4.0
+url: "https://anatomyatlas3d.app/quiz/"
+keywords: [anatomy, quiz, flashcards, muscles, bones, terminologia anatomica, education, open data]
